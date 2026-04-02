@@ -1,0 +1,316 @@
+Alberte Einstein
+Fundamental ideas and problems of the theory of relativity
+Lecture delivered to the Nordic Assembly of Naturalists at Gothenburg* July 11, 1923
+If we consider that part of the theory of relativity which may nowadays in
+a sense be regarded as bona fide scientific knowledge, we note two aspects
+which have a major bearing on this theory. The whole development of the
+theory turns on the question of whether there are physically preferred states
+of motion in Nature (physical relativity problem). Also, concepts and distinctions are 
+only admissible to the extent that observable facts can be assigned to them without ambiguity 
+(stipulation that concepts and distinctions
+should have meaning). This postulate, pertaining to epistemology, proves to
+be of fundamental importance.
+These two aspects become clear when applied to a special case, e.g. to classical mechanics. 
+Firstly we see that at any point filled with matter there exists
+a preferred state of motion, namely that of the substance at the point considered. 
+Our problem starts however with the question whether physically
+preferred states of motion exist in reference to extensive regions. From the
+viewpoint of classical mechanics the answer is in the affirmative; the physically preferred 
+states of motion from the viewpoint of mechanics are those of
+the inertial frames.
+This assertion, in common with the basis of the whole of mechanics as it
+generally used to be described before the relativity theory, far from meets
+the above "stipulation of meaning". Motion can only be conceived as the
+relative motion of bodies. In mechanics, motion relative to the system of
+coordinates is implied when merely motion is referred to. Nevertheless this
+interpretation does not comply with the "stipulation of meaning" if the coordinate system 
+is considered as something purely imaginary. If we turn our
+attention to experimental physics we see that there the coordinate system is
+invariably represented by a "practically rigid" body. Furthermore it is assumed that such 
+rigid bodies can be positioned in rest relative to one another
+* The Lecture was not delivered on the occasion of the Nobel Prize award, and did
+not, therefore, concern the discovery of the photoelectric effect.
+ THEORY OF RELATIVITY 483
+in common with the bodies of Euclidian geometry. Insofar as we may think
+of the rigid measuring body as existing as an object which can be experienced,
+the "system of coordinates" concept as well as the concept of the motion of
+matter relative thereto can be accepted in the sense of the "stipulation of
+meaning". At the same time Euclidian geometry, by this conception, has been
+adapted to the requirements of the physics of the "stipulation of meaning".
+The question whether Euclidian geometry is valid becomes physically significant; its validity is 
+assumed in classical physics and also later in the special
+theory of relativity.
+In classical mechanics the inertial frame and time are best defined together
+by a suitable formulation of the law of inertia: It is possible to fix the time
+and assign a state of motion to the system of coordinates (inertial frame) such
+that, with reference to the latter, force-free material points undergo no acceleration; 
+furthermore it is assumed that this time can be measured without
+disagreement by identical clocks (systems which run down periodically) in
+any arbitrary state of motion. There are then an infinite number of inertial
+frames which are in uniform translational motion relative to each other, and
+hence there is also an infinite number of mutually equivalent, physically preferred states of motion. 
+Time is absolute, i.e.independent of the choice of
+the particular inertial frame; it is defined by more characteristics than logically necessary, 
+although - as implied by mechanics - this should not lead
+to contradictions with experience. Note in passing that the logical weakness
+of this exposition from the point of view of the stipulation of meaning is
+the lack of an experimental criterion for whether a material point is forcefree or not; 
+therefore the concept of the inertial frame remains rather problematical. 
+This deficiency leads to the general theory of relativity. We shall
+not consider it for the moment.
+The concept of the rigid body (and that of the clock) has a key bearing
+on the foregoing consideration of the fundamentals of mechanics, a bearing
+which there is some justification for challenging. The rigid body is only approximately 
+achieved in Nature, not even with desired approximation; this
+concept does not therefore strictly satisfy the "stipulation of meaning". It is
+also logically unjustifiable to base all physical consideration on the rigid or
+solid body and then finally reconstruct that body atomically by means of
+elementary physical laws which in turn have been determined by means of
+the rigid measuring body. I am mentioning these deficiencies of method
+because in the same sense they are also a feature of the relativity theory in
+the schematic exposition which I am advocating here. Certainly it would be
+484 1921 A.EINSTEIN
+logically more correct to begin with the whole of the laws and to apply the
+"stipulation of meaning" to this whole first, i.e. to put the unambiguous relation 
+to the world of experience last instead of already fulfilling it in an imperfect form 
+for an artificially isolated part, namely the space-time metric.
+We are not, however, sufficiently advanced in our knowledge of Nature’s
+elementary laws to adopt this more perfect method without going out of our
+depth. At the close of our considerations we shall see that in the most recent
+studies there is an attempt, based on ideas by Levi-Civita, Weyl, and Eddington, 
+to implement that logically purer method.
+It more clearly follows from the above what is implied by "preferred states
+of motion". They are preferred as regards the laws of Nature. States of motion are preferred when, 
+relative to the formulation of the laws of Nature,
+coordinate systems within them are distinguished in that with respect to them
+those laws assume a form preferred by simplicity. According to classical mechanics the states 
+of motion of the inertial frames in this sense are physically
+preferred. Classical mechanics permits a distinction to be made between (absolutely) 
+unaccelerated and accelerated motions; it also claims that velocities
+have only a relative existence (dependent on the selection of the inertial
+frame), while accelerations and rotations have an absolute existence (independent of the 
+selection of the inertial frame). This state of affairs can be
+expressed thus: According to classical mechanics "velocity relativity" exists,
+but not "acceleration relativity". After these preliminary considerations we
+can pass to the actual topic of our contemplations, the relativity theory, by
+characterizing its development so far in terms of principles.
+The special theory of relativity is an adaptation of physical principles to
+Maxwell-Lorentz electrodynamics. From earlier physics it takes the assumption that Euclidian 
+geometry is valid for the laws governing the position of
+rigid bodies, the inertial frame and the law of inertia. The postulate of equivalence of inertial 
+frames for the formulation of the laws of Nature is assumed
+to be valid for the whole of physics (special relativity principle). From Maxwell-Lorentz 
+electrodynamics it takes the postulate of invariance of the velocity of light in a vacuum (light principle).
+To harmonize the relativity principle with the light principle, the assumption that 
+an absolute time (agreeing for all inertial frames) exists, had to
+be abandoned. Thus the hypothesis is abandoned that arbitrarily moved and
+suitably set identical clocks function in such a way that the times shown by
+two of them, which meet, agree. A specific time is assigned to each inertial
+frame; the state of motion and the time of the inertial frame are defined, in
+ THEORY OF RELATIVITY 485
+accordance with the stipulation of meaning, by the requirement that the
+light principle should apply to it. The existence of the inertial frame thus
+defined and the validity of the law of inertia with respect to it are assumed.
+The time for each inertial frame is measured by identical clocks that are stationary relative to the frame.
+The laws of transformation for space coordinates and time for the transition from one inertial 
+frame to another, the Lorentz transformations as they
+are termed, are unequivocally established by these definitions and the hypotheses concealed in 
+the assumption that they are free from contradiction. Their
+immediate physical significance lies in the effect of the motion relative to the
+used inertial frame on the form of rigid bodies (Lorentz contraction) and on
+the rate of the clocks. According to the special relativity principle the laws of
+Nature must be covariant relative to Lorentz transformations; the theory
+thus provides a criterion for general laws of Nature. It leads in particular to
+a modification of the Newtonian point motion law in which the velocity of
+light in a vacuum is considered the limiting velocity, and it also leads to the
+realization that energy and inertial mass are of like nature.
+The special relativity theory resulted in appreciable advances. It reconciled
+mechanics and electrodynamics. It reduced the number of logically independent hypotheses 
+regarding the latter. It enforced the need for a clarification of the fundamental concepts in 
+epistemological terms. It united the momentum and energy principle, and demonstrated the like nature of mass and
+energy. Yet it was not entirely satisfactory - quite apart from the quantum
+problems, which all theory so far has been incapable of really solving. In
+common with classical mechanics the special relativity theory favours certain
+states of motion - namely those of the inertial frames - to all other states of
+motion. This was actually more difficult to tolerate than the preference for
+a single state of motion as in the case of the theory of light with a stationary
+ether, for this imagined a real reason for the preference, i.e. the light ether.
+A theory which from the outset prefers no state of motion should appear more
+satisfactory. Moreover the previously mentioned vagueness in the definition
+of the inertial frame or in the formulation of the law of inertia raises doubts
+which obtain their decisive importance, owing to the empirical principle for
+the equality of the inertial and heavy mass, in the light of the following consideration.
+Let K be an inertial frame without a gravitational field, K’ a system of coordinates 
+accelerated uniformly relative to K. The behaviour of material
+points relative to K’ is the the same as if K’ were an inertial frame in respect
+486 1921 A.EINSTEIN
+of which a homogeneous gravitational field exists. On the basis of the empirically known 
+properties of the gravitational field, the definition of the
+inertial frame thus proves to be weak. The conclusion is obvious that any
+arbitrarily moved frame of reference is equivalent to any other for the formulation of 
+the laws of Nature, that there are thus no physically preferred
+states of motion at all in respect of regions of finite extension (general relativity principle).
+The implementation of this concept necessitates an even more profound
+modification of the geometric-kinematical principles than the special relativity theory. 
+The Lorentz contraction, which is derived from the latter,
+leads to the conclusion that with regard to a system K’ arbitrarily moved relative to a 
+(gravity field free) inertial frame K, the laws of Euclidian geometry
+governing the position of rigid (at rest relative to K’) bodies do not apply.
+Consequently the Cartesian system of coordinates also loses its significance
+in terms of the stipulation of meaning. Analogous reasoning applies to time;
+with reference to K’ the time can no longer meaningfully be defined by the
+indication on identical clocks at rest relative to K’, nor by the law governing
+the propagation of light. Generalizing, we arrive at the conclusion that gravitational field and 
+metric are only different manifestations of the same physical
+field.
+We arrive at the formal description of this field by the following consideration. For each 
+infinitesimal point-environment in an arbitrary gravitational field a local frame of coordinates can 
+be given for such a state of motion that relative to this local frame no gravitational field exists (local inertial
+frame). In terms of this inertial frame we may regard the results of the special
+relativity theory as correct to a first approximation for this infinitesimally
+small region. There are an infinite number of such local inertial frames at
+any space-time point; they are associated by Lorentz transformations. These
+latter are characterised in that they leave invariant the "distance" ds of two
+infinitely adjacent point events - defined by the equation:
+Y
+which distance can be measured by means of scales and clocks. For, x, y, z, t
+represent coordinates and time measured with reference to a local inertial
+frame.
+To describe space-time regions of finite extent arbitrary point coordinates
+in four dimensions are required which serve no other purpose than to pro-
+ THEORY OF RELATIVITY 487
+vide an unambiguous designation of the space-time points by four numbers
+each, x1, x2, x3 and x4, which takes account of the continuity of this fourdimensional manifold 
+(Gaussian coordinates). The mathematical expression
+of the general relativity principle is then, that the systems of equations expressing 
+the general laws of Nature are equal for all such systems of coordinates.
+Since the coordinate differentials of the local inertial frame are expressed
+linearly by the differentials dxv of a Gaussian system of coordinates, when
+the latter is used, for the distance ds of two events an expression of the form
+ = =
+is obtained. The g v which arc continuous functions of xv, determine the
+metric in the four-dimensional manifold where ds is defined as an (absolute)
+parameter measurable by means of rigid scales and clocks. These same parameters g v however also 
+describe with reference to the Gaussian system of
+coordinates the gravitational field which we have previously found to be
+identical with the physical cause of the metric. The case as to the validity of
+the special relativity theory for finite regions is characterised in that when
+the system of coordinates is suitably chosen, the values of g v for finite regions
+are independent of xv.
+In accordance with the general theory of relativity the law of point motion in the pure gravitational field 
+is expressed by the equation for the geodetic line. Actually the geodetic line is the simplest mathematically which
+in the special case of constant g v becomes rectilinear. Here therefore we
+are confronted with the transfer of Galileo’s law of inertia to the general
+theory of relativity.
+In mathematical terms the search for the field equations amounts to ascertaining the simplest generally covariant 
+differential equations to which the
+gravitational potentials g v can be subjected. By definition these equations
+should not contain higher derivatives of g v with respect to xv than the second, and these only linearly, 
+which condition reveals these equations to be a
+logical transfer of the Poisson field equation of the Newtonian theory of gravity to the general theory of relativity.
+The considerations mentioned led to the theory of gravity which yields
+the Newtonian theory as a first approximation and furthermore it yields the
+motion of the perihelion of Mercury, the deflection of light by the sun, and
+the red shift of spectral lines in agreement with experience.*
+* As regards the red shift, the agreement with experience is not yet completely assured,
+however.
+488 1921 A.EINSTEIN
+To complete the basis of the general theory of relativity, the electromagnetic field must still be introduced 
+into it which, according to our present conviction, is also the material from which we must build up the 
+elementary structures of matter. The Maxwellian field equations can readily
+be adopted into the general theory of relativity. This is a completely unambiguous adoption provided it is 
+assumed that the equations contain no
+differential quotients of g v higher than the first, and that in the customary
+Maxwellian form they apply in the local inertial frame. It is also easily possible to supplement the 
+gravitational field equations by electromagnetic
+terms in a manner specified by the Maxwellian equations so that they contain the gravitational effect of 
+the electromagnetic field.
+These field equations have not provided a theory of matter. To incorporate the field generating effect of 
+ponderable masses in the theory, matter
+had therefore (as in classical physics) to be introduced into the theory in an
+approximate, phenomenological representation.
+And that exhausts the direct consequences of the relativity principle. I shall
+turn to those problems which are related to the development which I have
+traced. Already Newton recognized that the law of inertia is unsatisfactory
+in a context so far unmentioned in this exposition, namely that it gives no
+real cause for the special physical position of the states of motion of the inertial frames relative 
+to all other states of motion. It makes the observable
+material bodies responsible for the gravitational behaviour of a material
+point, yet indicates no material cause for the inertial behaviour of the material point but devises 
+the cause for it (absolute space or inertial ether). This
+is not logically inadmissible although it is unsatisfactory. For this reason
+E. Mach demanded a modification of the law of inertia in the sense that the
+inertia should be interpreted as an acceleration resistance of the bodies against
+one another and not against "space". This interpretation governs the expectation that accelerated 
+bodies have concordant accelerating action in the same
+sense on other bodies (acceleration induction).
+This interpretation is even more plausible according to general relativity
+which eliminates the distinction between inertial and gravitational effects.
+It amounts to stipulating that, apart from the arbitrariness governed by the
+free choice of coordinates, the g v -field shall be completely determined by
+the matter. Mach’s stipulation is favoured in general relativity by the circumstance that 
+acceleration induction in accordance with the gravitational field
+equations really exists, although of such slight intensity that direct detection
+by mechanical experiments is out of the question.
+ THEORY OF RELATIVITY 489
+Mach’s stipulation can be accounted for in the general theory of relativity
+by regarding the world in spatial terms as finite and self-contained. This hypothesis also makes it 
+possible to assume the mean density of matter in the
+world as finite, whereas in a spatially infinite (quasi-Euclidian) world it should
+disappear. It cannot, however, be concealed that to satisfy Mach’s postulate
+in the manner referred to a term with no experimental basis whatsoever
+must be introduced into the field equations, which term logically is in no
+way determined by the other terms in the equations. For this reason this
+solution of the "cosmological problem" will not be completely satisfactory
+for the time being.
+A second problem which at present is the subject of lively interest is the
+identity between the gravitational field and the electromagnetic field. The
+mind striving after unification of the theory cannot be satisfied that two
+fields should exist which, by their nature, are quite independent. A mathematically unified field 
+theory is sought in which the gravitational field and
+the electromagnetic field are interpreted only as different components or
+manifestations of the same uniform field, the field equations where possible
+no longer consisting of logically mutually independent summands.
+The gravitational theory, considered in terms of mathematical formalism,
+i.e. Riemannian geometry, should be generalized so that it includes the laws
+of the electromagnetic field. Unfortunately we are unable here to base ourselves on empirical 
+facts as when deriving the gravitational theory (equality
+of the inertial and heavy mass), but we are restricted to the criterion of mathematical simplicity 
+which is not free from arbitrariness. The attempt which
+at present appears the most successful is that, based on the ideas of LeviCivita, Weyl and Eddington, 
+to replace Riemannian metric geometry by
+the more general theory of affine correlation.
+The characteristic assumption of Riemannian geometry is the attribution
+to two infinitely adjacent points of a "distance" ds, the square of which is a
+homogeneous second order function of the coordinate differentials. It follows from this that 
+(apart from certain conditions of reality) Euclidian geometry is valid in any infinitely small region. 
+Hence to every line element
+(or vector) at a point P is assigned a parallel and equal line element (or vector) through any 
+given infinitesimally adjacent point P’ (affine correlation).
+Riemannian metric determines an affine correlation. Conversely, however,
+when an affine correlation (law of infinitesimal parallel displacement) is mathematically given, 
+generally no Riemannian metric determination exists from
+which it can be derived.
+490 1921 A.EINSTEIN
+The most important concept of Riemannian geometry, "space curvature",
+on which the gravitational equations are also based, is based exclusively on
+the "affine correlation". If one is given in a continuum, without first proceeding from a metric, 
+it constitutes a generalization of Riemannian geometry but which still retains the most important 
+derived parameters. By
+seeking the simplest differential equations which can be obeyed by an affine
+correlation there is reason to hope that a generalization of the gravitation
+equations will be found which includes the laws of the electromagnetic field.
+This hope has in fact been fulfilled although I do not know whether the formal connection 
+so derived can really be regarded as an enrichment of physics
+as long as it does not yield any new physical connections. In particular a field
+theory can, to my mind, only be satisfactory when it permits the elementary
+electrical bodies to be represented as solutions free from singularities.
+Moreover it should not be forgotten that a theory relating to the elementary electrical 
+structures is inseparable from the quantum theory problems.
+So far also relativity theory has proved ineffectual in relation to this most
+profound physical problem of the present time. Should the form of the general equations some day, 
+by the solution of the quantum problem, undergo
+a change however profound, even if there is a complete change in the parameters by means of which we 
+represent the elementary process, the relativity
+principle will not be relinquished and the laws previously derived therefrom
+will at least retain their significance as limiting laws.

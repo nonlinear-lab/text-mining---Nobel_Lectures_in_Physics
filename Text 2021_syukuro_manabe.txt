@@ -1,0 +1,206 @@
+Physical Modeling of Earth’s Climate
+Nobel Lecture, 8 December 2021 by Syukuro Manabe
+Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton, NJ, USA.
+it is a great honor to be chosen by the Royal Swedish Academy of Sciences to receive the 
+Nobel Prize established through the generosity and foresight of Mr. Nobel. 
+It is likewise a great pleasure to give a talk on global warming, the subject that 
+I have enjoyed exploring throughout my career.
+On this occasion, I would like thank the late Joseph Smagorinsky, the
+inaugural director of the Geophysical Fluid Dynamics Laboratory of the
+U.S. National Oceanic and Atmospheric Administration. It has been a
+great privilege and pleasure to work at the Laboratory, unraveling the
+secrets of climate change.
+Today, I would like to discuss the role of greenhouse gases in climate
+change, using relatively simple climate models that we constructed prior
+to 1990. I begin with an explanation of the so-called greenhouse effect in
+the atmosphere.
+The energy balance of our planet is maintained between net incoming solar shortwave 
+radiation and outgoing longwave radiation at the top of the atmosphere. According to 
+satellite observation, the globally averaged value of outgoing longwave radiation is ~240 Wm–2. 
+Assuming that the Earth-atmosphere system radiates as a blackbody according to 
+the Stefan-Boltzmann law of blackbody radiation, one can estimate the effective 
+emission temperature of the planet.
+Temperature thus obtained is –18.7C, which is colder than +14.7C, the global 
+mean temperature of the Earth’s surface. This implies that the Earth’s surface is warmer 
+than it would be in the absence of the atmosphere by as much as 33C. In other words, 
+the atmosphere has so-called greenhouse effect that increases the temperature of 
+the Earth’s surface by as much as 33C. It is the satellite observation of outgoing 
+longwave radiation that has provided the most convincing evidence for the existence 
+of the greenhouse effect of the atmosphere.
+The figureon next page was designed to illustrate schematically the thermal structure 
+and the greenhouse effect of the atmosphere. The slanted line indicates schematically 
+the idealized, vertical temperature profile of the troposphere, where temperature 
+decreases almost linearly with height. The vertical line segment above the slanted line 
+illustrates schematically the almost isothermal lower stratosphere. The dot in the middle 
+troposphere indicates the effective emission center of the outgoing radiation from the top 
+of the atmosphere. Its temperature is –18.7C, which may be compared with +14.7C, the global 
+mean temperature of the Earth’s surface. The latter is warmer than the former by about 33C, 
+indicating the magnitude of the greenhouse effect of the atmosphere.
+Radiative transfer from the Earth’s surface and in the atmosphere obeys Kirkhoff’s law. 
+It requires that, for a given wavelength, the
+Figure 4. Temperature of Planetary Emission.
+56 THE NOBEL PRIZES
+absorptivity
+of a substance is equal to its emissivity, which is defined as
+the ratio of the actual emission to the theoretical emission from a blackbody.
+Because Earth’s surface behaves almost as a blackbody, it has an
+absorptivity that is close to one, absorbing almost completely the downward
+flux of longwave and shortwave radiation that reaches it. In keeping
+with Kirkhoff’s law, the Earth’s surface emits an upward flux of longwave
+radiation almost as a blackbody would. As this upward flux penetrates
+into the atmosphere, it is depleted due to the absorption by greenhouse
+gases such as water vapor, carbon dioxide, nitrous oxide, and methane,
+but it is also accreted because of the emission from these gases. In short,
+the upward flux decreases or increases with height, depending on
+whether the depletion is larger than accretion or vice versa.
+Although these greenhouse gases are minor constituents of the atmosphere,
+as a whole they absorb a major fraction of the upward flux of
+blackbody radiation emitted by the Earth’s surface. On the other hand,
+the atmosphere also emits the upward flux of longwave radiation. Since
+Kirkhoff’s law requires the absorptivity of the atmosphere to be equal to
+its emissivity, the absorption of the upward flux emitted by the relatively
+warm Earth’s surface is substantially larger than the emission of the
+upward flux by the relatively cold atmosphere. Thus, the atmosphere
+traps a substantial fraction of the upward flux of longwave radiation emitted by 
+the Earth’s surface before it reaches the top of the atmosphere, thereby keeping 
+the Earth’s surface warm and habitable.
+So far, I have explained why the atmosphere has a so-called greenhouse effect that 
+traps a substantial fraction of the upward flux of longwave radiation emitted by 
+the Earth’s surface. Now I shall explain why temperature increases not only at 
+the Earth’s surface but also in the troposphere as the concentration of a greenhouse gas 
+increases in the atmosphere.
+If a greenhouse gas such as carbon dioxide increases in the atmosphere, the infrared 
+opacity of air increases, making it harder for the radiation emitted from 
+the lower layer to reach the top of the atmosphere. Consequently, the average height of the layer, 
+from which the outgoing longwave radiation originates, increases as the concentration of 
+greenhouse gas increases in the atmosphere. In short, the more opaque the atmosphere is, 
+the higher is the effective center of the upward flux that reaches the top of the atmosphere. 
+Since the effective center (A) of the outgoing radiation is located in the troposphere, where temperature
+decreases with increasing height, the temperature of the center decreases
+as it moves upward, thereby reducing the outgoing radiation from the top
+of the atmosphere.
+The change in the concentration of greenhouse gas affects not only the
+outgoing longwave radiation from the top of the atmosphere but also the
+downward flux that reaches the Earth’s surface. If the concentration of
+greenhouse gas increases in the atmosphere, the infrared opacity of air
+increases, making it harder for the radiation from the higher layer of the
+atmosphere to reach the Earth’s surface. Consequently, there is a downward
+shift of the effective center (B) of the downward flux, as the concentration
+of greenhouse gas increases in the atmosphere. In short, the more
+opaque the atmosphere is, the lower is the emission center of the downward
+flux that reaches the Earth’s surface. Because temperature increases
+with decreasing height in the troposphere, the temperature at the center
+also increases as it moves downward, thereby increasing the downward
+flux that reaches the Earth’s surface.
+The radiative response of the surface-troposphere system to an
+increase in greenhouse gas can be regarded as the net result of two
+related processes. The first process involves the increase in the downward
+flux of longwave radiation that increases the temperature of the Earth’s
+surface. Over a sufficiently long period of time, the Earth’s surface returns
+to the overlying troposphere practically all the radiative energy it receives,
+with thermal energy being transferred upward through moist and dry
+convection, longwave radiation, and large-scale circulation in the atmosphere.
+Thus, temperature increases not only at the Earth’s surface but
+also in the overlying troposphere.
+The second process involves the upward flux of longwave radiation at
+the top of the atmosphere in response to an increase in atmospheric concentration
+of greenhouse gas. If the amount of greenhouse gas were to
+increase without allowing the temperature of the surface–troposphere
+system to change, the upward flux of longwave radiation at the top of the
+atmosphere would decrease, as explained earlier. To maintain the radiative
+heat balance of the planet as a whole, the surface-troposphere system
+warms just enough for the effect of these two processes to balance, such
+that the top-of-atmosphere flux of outgoing radiation remains unchanged
+despite the warming. The global scale increase of the overall temperature
+of the surface-troposphere system is often called global warming.
+An important factor that affects the magnitude of global warming is
+the positive feedback process that involves water vapor, which absorbs
+and emits strongly over much of the spectral range of terrestrial longwave
+radiation and is mainly responsible for the powerful greenhouse effect of
+the atmosphere. As we know, the absolute humidity of air usually
+increases with increasing temperature, thereby increasing the greenhouse
+effect of the atmosphere. The positive feedback effect between temperature and the greenhouse 
+effect of the atmosphere is called ‘water vapor feedback’. It magnifies the global warming 
+that is induced by long-lived greenhouse gases such as carbon dioxide.
+In the mid-1960s we developed a one-dimensional, vertical column model of the atmosphere, 
+in which heat balance in the atmosphere and the Earth’s surface are maintained through 
+close interaction between radiative and convective heat transfer. The model tuned out to 
+be very useful for evaluating how temperature changes at the Earth’s surface and in the atmosphere 
+in response to the change in the atmospheric concentration of carbon dioxide.
+Using this model, we obtained the vertical temperature profile of the atmosphere in 
+radiative-convective equilibrium not only for the normal concentration of the atmosphere, 
+300 ppm by volume, but also for two other concentrations, 150 ppm and 600 ppm. 
+The above figure shows vertical temperature profiles of the coupled atmosphere-earth surface system, 
+in radiative-convective equilibrium, which are obtained for these three concentrations. 
+As explained already, the temperature increases not only at the Earth’s surface but also in 
+the troposphere as the atmospheric concentration of carbon dioxide doubles from 150 
+to 300 ppm and 300 to 600 ppm, whereas it decreases in the stratosphere.
+Figure 7. Radiative-Convective Equilibrium. Manabe & Wetherald, 1967.
+60 THE NOBEL PRIZES
+The magnitude of the warming in the troposphere is 2.3C in both cases
+and is practically identical in both cases.
+To evaluate quantitatively the influence of the water vapor feedback
+upon the simulated warming, we conducted another set of runs in which
+the water vapor feedback was disabled. In these runs, the distribution of
+absolute humidity was prescribed to remain unchanged rather than being
+adjusted to maintain a constant relative humidity. From the difference
+among the three states of radiative-convective equilibrium thus obtained,
+we estimated the magnitude of the equilibrium response of surface temperature
+in the absence of water vapor feedback. We found that surface
+temperature increases by approximately 1.3C in response to the doubling
+of atmospheric carbon dioxide. It is much smaller than 2.3C that we got in
+the presence of the water vapor feedback. These experiments indicate
+that water vapor has a powerful feedback effect that magnifies surface
+temperature change by a substantial factor.
+The one-dimensional, radiative-convective model was developed as an
+important step towards the development of the three-dimensional, general
+circulation model of the atmosphere, which in turn evolved into a
+coupled atmosphere-ocean model.
+In the box diagram shown here, the coupled model consists of three
+major components, which are the general circulation model of the atmosphere,
+that of the ocean, and a simple, heat and water balance model of
+the continental surface. Although the initial version of the coupled model
+was constructed in the late 1960s, it took two more decades before the
+coupled model with realistic geography became ready for the global
+warming experiment conducted in the late 1980s. The result from the
+experiment was published in the late 1980s and was discussed extensively
+in the first report of the Inter-Governmental Panel on Climate Change
+published in 1990. For further details of this study, see our book Beyond
+Global Warming, recently published by Princeton University Press.
+Figure 8. Surface Temperature Change due to CO2 doubling.
+Global warming involves changes not only in temperature but also in the rate of 
+evaporation and that of precipitation. If a greenhouse gas such as water vapor or 
+carbon dioxide increases in the atmosphere, the downward flux of longwave radiation 
+increases at the Earth’s surface as explained already, thereby increasing 
+the temperature of the Earth’s surface. Since the saturation vapor pressure at a wet surface 
+(e.g., ocean) increases with rising surface temperature, it is expected that 
+the rate of evaporation from the Earth’s surface also increases, so long as 
+the relative humidity of the overlying atmosphere does not change systematically. 
+Given sufficient time, a global-scale increase in the rate of evaporation results 
+in a corresponding increase in the rate of precipitation, thereby increasing 
+the strength of the global water cycle.
+Global warming involves not only the global mean rates of precipitation and 
+evaporation but also their geographical distributions, due mainly to the increase 
+in the rate of horizontal transport of water vapor by large-scale circulation in the atmosphere. 
+When temperature increases in the atmosphere in response to the increase in the concentration of long-lived
+Figure 9. Coupled Ocean-Atmosphere-Land Model. Manabe & Bryan, 1969.
+Figure 10. Acceleration of Hydrologic Cycle.
+62 THE NOBEL PRIZES
+greenhouse gas such as carbon dioxide, it is expected that the absolute
+humidity of air increases, keeping the relative humidity of air unchanged
+through precipitation. Thus, it is expected that horizontal transport of
+water vapor by large scale circulation also increases in the atmosphere.
+This is the main reason why the distribution of precipitation changes differently
+from that of evaporation as global warming proceeds, affecting
+substantially the distribution of water availability such as the rate of river
+discharge and the amount of soil moisture at the continental surface.
+For example, precipitation usually increases in many water-rich
+regions in high northern latitudes and heavily precipitating regions of the
+tropics, increasing river discharge and frequency of floods. In contrast,
+soil moisture usually decreases in many relatively arid regions in the subtropics
+and other water-poor regions that are relatively dry, increasing the
+frequency of drought.
+The implied amplification of existing difference in water availability between 
+water-poor and water-rich regions presents a very serious challenge to the 
+water-resources managers of the world.
+Thank you very much.

@@ -1,0 +1,925 @@
+Random Walk to Graphene
+nobel lecture, december 8, 2010
+by Andre K. Geim
+School of physics and astronomy, the University of manchester, oxford
+Road, manchester m13 9pl, United kingdom.
+If one wants to understand the beautiful physics of graphene, they will
+be spoiled for choice with so many reviews and popular science articles
+now available. I hope that the reader will excuse me if on this occasion I
+recommend my own writings [1–3]. Instead of repeating myself here, I have
+chosen to describe my twisty scientific road that eventually led to the nobel
+prize. most parts of this story are not described anywhere else, and its timeline 
+covers the period from my phd in 1987 to the moment when our 2004
+paper, recognised by the nobel Committee, was accepted for publication.
+the story naturally gets denser in events and explanations towards the end.
+also, it provides a detailed review of pre-2004 literature and, with the benefit
+of hindsight, attempts to analyse why graphene has attracted so much interest. 
+I have tried my best to make this article not only informative but also easy
+to read, even for non-physicists.ZombIe manaGement
+my phd thesis was called “Investigation of mechanisms of transport relaxation in metals 
+by a helicon resonance method”. all I can say is that the stuff
+was as interesting at that time as it sounds to the reader today. I published five
+journal papers and finished the thesis in five years, the official duration for
+a phd at my institution, the Institute of Solid State physics. Web of Science soberly 
+reveals that the papers were cited twice, by co-authors only. the subject
+was dead a decade before I even started my phd. however, every cloud has
+its silver lining, and what I uniquely learned from that experience was that I
+should never torture research students by offering them “zombie” projects.
+after my phd, I worked as a staff scientist at the Institute of microelectronics technology, 
+Chernogolovka, which belongs to the Russian
+academy of Sciences. the Soviet system allowed and even encouraged junior
+staff to choose their own line of research. after a year of poking in different
+directions, I separated research-wise from my former phd supervisor, Victor
+petrashov, and started developing my own niche. It was an experimental
+system that was both new and doable, which was nearly an oxymoron, taking
+into account the scarce resources available at the time at Soviet research
+institutes. I fabricated a sandwich consisting of a thin metal film and a superconductor 
+separated by a thin insulator. the superconductor served only to
+condense an external magnetic field into an array of vortices, and this highly
+inhomogeneous magnetic field was projected onto the film under investigation. electron transport 
+in such a microscopically inhomogeneous field
+(varying on a submicron scale) was new research territory, and I published
+the first experimental report on the subject [4], which was closely followed
+by an independent paper from Simon bending [5]. It was an interesting
+and reasonably important niche, and I continued studying the subject for
+the next few years, including a spell at the University of bath in 1991 as a
+postdoctoral researcher working with Simon.
+this experience taught me an important lesson: that introducing a new
+experimental system is generally more rewarding than trying to find new
+phenomena within crowded areas. the chances of success are much higher
+where the field is new. of course, the fantastic results one originally hopes
+for are unlikely to materialise, but, in the process of studying any new system,
+something original inevitably shows up.
+one man’S jUnk, anotheR man’S Gold
+In 1990, thanks to Vitaly aristov, director of my Institute in Chernogolovka
+at the time, I received a six month visiting fellowship from the british
+Royal Society. laurence eaves and peter main from nottingham University
+kindly agreed to accept me as a visitor. Six months is a very short period for
+experimental work, and circumstances dictated that I could only study devices readily available 
+in the host laboratory. available were submicron Gaas
+wires left over from previous experiments, all done and dusted a few years
+earlier. Under the circumstances, my experience of working in a povertystricken Soviet academy was helpful. 
+the samples that my hosts considered
+practically exhausted looked like a gold vein to me, and I started working
+100 hours per week to exploit it. this short visit led to two Phys. Rev. Letters
+of decent quality [6,7], and I often use this experience to tease my younger
+colleagues. When things do not go as planned and people start complaining,
+I provoke them by proclaiming ‘there is no such thing as bad samples; there
+are only bad postdocs/students’. Search carefully and you will always find
+something new. of course, it is better to avoid such experiences and explore
+new territories, but even if one is fortunate enough to find an experimental
+system as new and exciting as graphene, meticulousness and perseverance
+allow one to progress much further.
+the pace of research at nottingham was so relentless and, at the same time
+so inspiring, that a return to Russia was not an option. Swimming through
+Soviet treacle seemed no less than wasting the rest of my life. So at the age
+of thirty-three and with an h-index of 1 (latest papers not yet published), I
+entered the Western job market for postdocs. during the next four years I
+moved between different universities, from nottingham to Copenhagen to
+bath and back to nottingham. each move allowed me to get acquainted with
+yet another topic or two, significantly broadening my research horizons. the
+physics I studied in those years could be broadly described as mesoscopic and
+involved such systems and phenomena as two-dimensional electron gases
+(2deGs), quantum point contacts, resonant tunnelling and the quantum
+hall effect (Qhe), to name but a few. In addition, I became familiar with
+Gaalas heterostructures grown by molecular beam epitaxy (mbe) and
+improved my expertise in microfabrication and electron-beam lithography,
+technologies I had started learning in Russia. all these elements came
+together to form the foundation for the successful work on graphene a
+decade later.
+dUtCh ComfoRt
+by 1994 I had published enough quality papers and attended enough conferences to hope for 
+a permanent academic position. When I was offered
+an associate professorship at the University of nijmegen, I instantly seized
+upon the chance of having some security in my new post-Soviet life. the first
+task in nijmegen was of course to establish myself. to this end, there was no
+start-up and no microfabrication to continue any of my previous lines of research. as resources, 
+I was offered access to magnets, cryostats and electronic
+equipment available at nijmegen’s high field magnet laboratory, led by jan
+kees maan. he was also my formal boss and in charge of all the money. even
+when I was awarded grants as the principal investigator (the dutch funding
+agency fom was generous during my stay in nijmegen), I could not spend
+the money as I wished. all funds were distributed through so-called ‘working
+groups’ led by full professors. In addition, phd students in the netherlands
+could formally be supervised only by full professors. although this probably
+sounds strange to many, this was the dutch academic system of the 1990s. It
+was tough for me then. for a couple of years, I really struggled to adjust to
+the system, which was such a contrast to my joyful and productive years at
+nottingham. In addition, the situation was a bit surreal because outside the
+university walls I received a warm-hearted welcome from everyone around,
+including jan kees and other academics.
+Still, the research opportunities in nijmegen were much better than in
+Russia and, eventually, I managed to survive scientifically, thanks to help
+from abroad. nottingham colleagues (in particular mohamed henini)
+provided me with 2deGs that were sent to Chernogolovka, where Sergey
+dubonos, a close colleague and friend from the 1980s, microfabricated
+requested devices. the research topic I eventually found and later focused
+on can be referred to as mesoscopic superconductivity. Sergey and I used
+micron-sized hall bars made from a 2deG as local probes of the magnetic
+field around small superconducting samples. this allowed measurements
+of their magnetisation with accuracy sufficient to detect not only the entry
+and exit of individual vortices but also much more subtle changes. this was
+a new experimental niche, made possible by the development of an original
+technique of ballistic hall micromagnetometry [8]. during the next few
+years, we exploited this niche area and published several papers in Nature
+and Phys. Rev. Letters which reported a paramagnetic meissner effect, vortices
+carrying fractional flux, vortex configurations in confined geometries and so
+on. my wife Irina Grigorieva, an expert in vortex physics [9], could not find
+a job in the netherlands and therefore had plenty of time to help me with
+conquering the subject and writing papers. also, Sergey not only made the
+devices but also visited nijmegen to help with measurements. We established
+a very productive modus operandi where he collected data and I analysed
+them within an hour on my computer next door to decide what should be
+done next.
+a Spell of leVIty
+the first results on mesoscopic superconductivity started emerging in 1996,
+which made me feel safer within the dutch system and also more inquisitive. I started looking around 
+for new areas to explore. the major facility
+at nijmegen’s high field lab was powerful electromagnets. they were a
+major headache, too. these magnets could provide fields up to 20 t, which
+was somewhat higher than 16 to 18 t available with the superconducting
+magnets that many of our competitors had. on the other hand, the electromagnets were so expensive 
+to run that we could use them only for a few
+hours at night, when electricity was cheaper. my work on mesoscopic superconductivity required only 
+tiny fields (< 0.01t), and I did not use the electromagnets. this made me feel guilty as well as 
+responsible for coming up with
+experiments that would justify the facility’s existence. the only competitive
+edge I could see in the electromagnets was their room temperature (T)
+bore. this was often considered as an extra disadvantage because research
+in condensed matter physics typically requires low, liquid-helium T. the contradiction prompted me, 
+as well as other researchers working in the lab, to
+ponder on high-field phenomena at room T. Unfortunately, there were few
+to choose from.
+eventually, I stumbled across the mystery of so-called magnetic water. It
+is claimed that putting a small magnet around a hot water pipe prevents
+formation of scale inside the pipe. or install such a magnet on a water tap,
+and your kettle will never suffer from chalky deposits. these magnets are
+available in a great variety in many shops and on the internet. there are also
+hundreds of articles written on this phenomenon, but the physics behind it
+remains unclear, and many researchers are sceptical about the very existence
+of the effect [10]. over the last fifteen years I have made several attempts
+to investigate “magnetic water” but they were inconclusive, and I still have
+nothing to add to the argument. however, the availability of ultra-high fields
+in a room T environment invited lateral thinking about water. basically, if
+magnetic water existed, I thought, then the effect should be clearer in 20 t
+rather than in typical fields of <0.1 t created by standard magnets.
+With this idea in mind and, allegedly, on a friday night, I poured water
+inside the lab’s electromagnet when it was at its maximum power. pouring
+water in one's equipment is certainly not a standard scientific approach, and
+I cannot recall why I behaved so ‘unprofessionally’. apparently, no one had
+tried such a silly thing before, although similar facilities existed in several
+places around the world for decades. to my surprise, water did not end up
+on the floor but got stuck in the vertical bore of the magnet. humberto
+Carmona, a visiting student from nottingham, and I played for an hour with
+the water by breaking the blockage with a wooden stick and changing the
+field strength. as a result, we saw balls of levitating water (figure 1). this was
+awesome. It took little time to realise that the physics behind was good old
+diamagnetism. It took much longer to adjust my intuition to the fact that the
+feeble magnetic response of water (~10–5), billions of times weaker than that
+of iron, was sufficient to compensate the earth’s gravity. many colleagues,
+including those who worked with high magnetic fields all their lives, were
+flabbergasted, and some of them even argued that this was a hoax.
+I spent the next few months demonstrating magnetic levitation to colleagues
+and visitors, as well as trying to make a ‘non-boffin’ illustration for this
+beautiful phenomenon. out of the many objects that we had floating inside
+the magnet, it was the image of a levitating frog (figure 1) that started the
+media hype. more importantly, though, behind all the media noise, this
+image found its way into many textbooks. however quirky, it has become a
+beautiful symbol of ever-present diamagnetism, which is no longer perceived
+to be extremely feeble. Sometimes I am stopped at conferences by people
+exclaiming “I know you! Sorry, it is not about graphene. I start my lectures
+with showing your frog. Students always want to learn how it could fly.” the
+frog story, with some intricate physics behind the stability of diamagnetic
+levitation, is described in my review in Physics Today [11].
+Figure 1. levitating moments in nijmegen. left – ball of water (about 5 cm in diameter)
+freely floats inside the vertical bore of an electromagnet. Right – the frog that learned to
+fly. this image continues to serve as a symbol showing that magnetism of ‘nonmagnetic
+things’, including humans, is not so negligible. this experiment earned michael berry and
+me the 2000 Ig nobel prize. We were asked first whether we dared to accept this prize, and
+I take pride in our sense of humour and self-deprecation that we did.
+fRIday nIGht expeRImentS
+the levitation experience was both interesting and addictive. It taught me
+the important lesson that poking in directions far away from my immediate
+area of expertise could lead to interesting results, even if the initial ideas
+were extremely basic. this in turn influenced my research style, as I started
+making similar exploratory detours that somehow acquired the name ‘friday
+night experiments’. the term is of course inaccurate. no serious work can
+be accomplished in just one night. It usually requires many months of lateral
+thinking and digging through irrelevant literature without any clear idea in
+sight. eventually, you get a feeling – rather than an idea – about what could
+be interesting to explore. next, you give it a try, and normally you fail. then,
+you may or may not try again. In any case, at some moment you must decide
+(and this is the most difficult part) whether to continue further efforts or cut
+losses and start thinking of another experiment. all this happens against the
+backdrop of your main research and occupies only a small part of your time
+and brain.
+already in nijmegen, I started using lateral ideas as under- and postgraduate projects, 
+and students were always excited to buy a pig in a poke.
+kostya novoselov, who came to nijmegen as a phd student in 1999, took part
+in many of these projects. they never lasted for more than a few months,
+in order not to jeopardise a thesis or career progression. although the
+enthusiasm inevitably vanished towards the end, when the predictable
+failures materialised, some students later confided that those exploratory
+detours were invaluable experiences.
+most surprisingly, failures sometimes failed to materialise. Gecko tape
+is one such example. accidentally or not, I read a paper describing the
+mechanism behind the amazing climbing ability of geckos [12]. the physics
+is rather straightforward. Gecko’s toes are covered with tiny hairs. each hair
+attaches to the opposite surface with a minute van der Waals force (in the
+nn range), but billions of hairs work together to create a formidable attraction
+sufficient to keep geckos attached to any surface, even a glass ceiling. In
+particular, my attention was attracted by the spatial scale of their hairs. they
+were submicron in diameter, the standard size in research on mesoscopic
+physics. after toying with the idea for a year or so, Sergey dubonos and I
+came up with procedures to make a material that mimicked a gecko’s hairy
+feet. he fabricated a square cm of this tape, and it exhibited notable adhesion
+[13]. Unfortunately, the material did not work as well as a gecko’s feet,
+deteriorating completely after a couple of attachments. Still, it was an
+important proof-of-concept experiment that inspired further work in the field.
+hopefully, one day someone will develop a way to replicate the hierarchical
+structure of gecko’s setae and its self-cleaning mechanism. then gecko tape
+can go on sale.
+betteR to be WRonG than boRInG
+While preparing for my lecture in Stockholm, I compiled a list of my friday
+night experiments. only then did I realise a stunning fact. there were two
+dozen or so experiments over a period of approximately fifteen years and, as
+expected, most of them failed miserably. but there were three hits: levitation,
+gecko tape and graphene. this implies an extraordinary success rate: more
+than 10%. moreover, there were probably near-misses, too. for example, I
+once read a paper [14] about giant diamagnetism in feGeSeas alloys, which
+was interpreted as a sign of high-T superconductivity. I asked lamarches for
+samples and got them. kostya and I employed ballistic hall magnetometry
+to check for giant diamagnetism but found nothing, even at 1 k. this
+happened in 2003, well before the discovery of iron pnictide superconductivity, and 
+I still wonder whether there were any small inclusions of a superconducting material 
+which we missed with our approach. another miss was an
+attempt to detect “heartbeats” of individual living cells. the idea was to use
+2deG hall crosses as ultrasensitive electrometers to detect electrical signals
+due to physiological activity of individual cells. even though no heartbeats
+were detected while a cell was alive, our sensor recorded huge voltage spikes
+at its “last gasp” when the cell was treated with excess alcohol [15]. now I
+attribute this near-miss to the unwise use of yeast, a very dormant microorganism. four years later, 
+similar experiments were done using embryonic
+heart cells and – what a surprise – graphene sensors, and they were successful
+in detecting such bioelectrical activity [16].
+frankly, I do not believe that the above success rate can be explained by
+my lateral ideas being particularly good. more likely, this tells us that poking
+in new directions, even randomly, is more rewarding than is generally
+perceived. We are probably digging too deep within established areas,
+leaving plenty of unexplored stuff under the surface, just one poke away.
+When one dares to try, rewards are not guaranteed, but at least it is an
+adventure.
+the manCUnIan Way
+by 2000, with mesoscopic superconductivity, diamagnetic levitation and
+four Nature papers under my belt, I was well placed to apply for a full
+professorship. Colleagues were rather surprised when I chose the University
+of manchester, declining a number of seemingly more prestigious offers.
+the reason was simple. mike moore, chairman of the search committee,
+knew my wife Irina when she was a very successful postdoc in bristol rather
+than my co-author and a part-time teaching lab technician in nijmegen.
+he suggested that Irina could apply for the lectureship that was there
+to support the professorship. after six years in the netherlands, the idea
+that a husband and wife could officially work together had not even
+crossed my mind. this was the decisive factor. We appreciated not only
+the possibility of sorting out our dual career problems but also felt
+touched that our future colleagues cared. We have never regretted the
+move.
+So in early 2001, I took charge of several dilapidated rooms storing ancient
+equipment of no value, and a start-up grant of £100k. there were no central
+facilities that I could exploit, except for a helium liquefier. no problem. I
+followed the same routine as in nijmegen, combining help from other
+places, especially Sergey dubonos. the lab started shaping up surprisingly
+quickly. Within half a year, I received my first grant of £500k, which allowed
+us to acquire essential equipment. despite being consumed with our one
+year old daughter, Irina also got her starting grant a few months later. We
+invited kostya to join us as a research fellow (he continued to be officially
+registered in nijmegen as a phd student until 2004 when he defended his
+thesis there). and our group started generating results that led to more
+grants that in turn led to more results.
+by 2003 we published several good-quality papers including Nature, Nature
+Materials and Phys. Rev. Letters, and we continued beefing up the laboratory with new equipment. 
+moreover, thanks to a grant of £1.4m (research
+infrastructure funding scheme masterminded by the then science minister
+david Sainsbury), ernie hill from the department of Computer Sciences
+and I managed to set up the manchester Centre for mesoscience and
+nanotechnology. Instead of pouring the windfall money into bricks-andmortar, we utilised the 
+existing clean room areas (~250 m2) in Computer
+Sciences. those rooms contained obsolete equipment, and it was thrown
+away and replaced with state-of-the-art microfabrication facilities, including
+a new electron-beam lithography system. the fact that ernie and I are most
+proud of is that many groups around the world have more expensive facilities
+but our Centre has continuously, since 2003, been producing new structures
+and devices. We do not have a posh horse here that is for show, but rather a
+draft horse that has been working really hard.
+Whenever I describe this experience to my colleagues abroad, they find
+it difficult to believe that it is possible to establish a fully functional laboratory and 
+a microfabrication facility in less than three years and without an
+astronomical start-up grant. If not for my own experience, I would not
+believe it either. things progressed unbelievably quickly. the University was
+supportive, but my greatest thanks are reserved specifically for the responsive
+mode of the Uk engineering and physical Sciences Research Council
+(epSRC). the funding system is democratic and non-xenophobic. your
+position in an academic hierarchy or an old-boys network counts for little.
+also, ‘visionary ideas’ and grand promises to ‘address social and economic
+needs’ play little role when it comes to the peer review. In truth, the
+responsive mode distributes its money on the basis of a recent track record,
+whatever that means in different subjects, and the funding normally goes
+to researchers who work both efficiently and hard. of course, no system is
+perfect, and one can always hope for a better one. however, paraphrasing
+Winston Churchill, the Uk has the worst research funding system, except for
+all the others that I am aware of.
+thRee lIttle CloUdS
+as our laboratory and nanotech Centre were shaping up, I got some spare
+time for thinking of new research detours. Gecko tape and the failed attempts
+with yeast and quasi-pnictides took place during that time. also, Serge
+morozov, a senior fellow from Chernogolovka, who later became a regular visitor and invaluable collaborator, 
+wasted his first two visits on studying magnetic
+water. In the autumn of 2002, our first manchester phd student, da jiang,
+arrived, and I needed to invent a phd project for him. It was clear that
+for the first few months he needed to spend his time learning english and
+getting acquainted with the lab. accordingly, as a starter, I suggested to him a
+new lateral experiment. It was to make films of graphite ‘as thin as possible’ and,
+if successful, I promised we would then study their ‘mesoscopic’ properties.
+Recently, trying to analyse how this idea emerged, I recalled three badly
+shaped thought clouds.
+one cloud was a concept of ‘metallic electronics’. If an external electric
+field is applied to a metal, the number of charge carriers near its surface
+changes, so that one may expect that its surface properties change, too.
+this is how modern semiconductor electronics works. Why not use a metal
+instead of silicon? as an undergraduate student, I wanted to use electric field
+effect (efe) and x-ray analysis to induce and detect changes in the lattice
+constant. It was naïve because simple estimates show that the effect would
+be negligible. Indeed, no dielectric allows fields much higher than 1V/nm,
+which translates into maximum changes in charge carrier concentration n
+at the metal surface of about 1014 per cm2. In comparison, a typical metal
+(e.g., au) contains ~1023 electrons per cm3 and, even for a 1 nm thick film,
+this yields relative changes in n and conductivity of ~1%, leaving aside much
+smaller changes in the lattice constant.
+previously, many researchers aspired to detect the field effect in metals.
+the first mention is as far back as 1902, shortly after the discovery of the
+electron. j. j. thomson (1906 nobel prize in physics) suggested to Charles
+mott, the father of nevill mott (1977 nobel prize in physics), to look for
+the efe in a thin metal film, but nothing was found [17]. the first attempt
+to measure the efe in a metal was recorded in scientific literature in 1906
+[18]. Instead of a normal metal, one could also think of semimetals such
+as bismuth, graphite or antimony which have a lot fewer carriers. over the
+last century, many researchers used bi films (n ~1018 cm–3) but observed
+only small changes in their conductivity [19,20]. aware of this research
+area and with experience in Gaalas heterostructures, I was continuously,
+albeit casually, looking for other candidates, especially ultra-thin films of
+superconductors in which the field effect can be amplified in proximity to
+the superconducting transition [21,22]. In nijmegen, my enthusiasm was
+once sparked by learning about nm-thick al films grown by mbe on top of
+Gaalas heterostructures but, after estimating possible effects, I decided that
+the chances of success were so poor it was not worth trying.
+Carbon nanotubes were the second cloud hanging around in the late
+1990s and early 2000s. those were the years when nanotubes were at the
+peak of their glory. living in the netherlands, I heard talks by Cees dekker
+and leo kouwenhoven and read papers by thomas ebbesen, paul mceuen,
+Sumio Iijima, pheadon avouris and others. each time, those exceptionally
+nice results inevitably triggered thoughts about entering this research area.
+but I was too late and needed to find a different perspective, away from the
+stampede.
+as for the third cloud, I read a review of millie dresselhaus about intercalated graphite compounds [23], 
+which clearly showed that, even after many
+decades, graphite was still a material little understood, especially in terms of
+its electronic properties. this influential review prompted me to look further
+into graphite literature. In doing so, I encountered papers by pablo esquinazi
+and yakov kopelevich, who reported ferromagnetism, superconductivity and
+a metal-insulator transition, all in the same good old graphite and at room T
+[24,25]. those provocative papers left me with a distinct feeling that graphite
+was very much worth having a careful look at.
+the three thought clouds (and maybe some more that I cannot recall)
+somehow merged into da’s project. I reckoned that if we were to succeed in
+making thin films of graphite, instead of bi, they could exhibit some electric
+field effect and/or some other interesting properties resembling those of
+carbon nanotubes. In the worst-case scenario, our mesoscopic samples would
+be monocrystals and this could help to clarify those controversies about
+graphite. Why not try to poke in this direction for a few months, I thought.
+leGend of SCotCh tape
+to make thin graphite films, I provided da with a tablet of pyrolytic graphite,
+which was several mm thick and an inch in diameter, and suggested using
+a polishing machine. We had a fancy one that allowed submicron flatness.
+a few months later, da declared that he had reached the ultimate thickness and showed me a tiny speck 
+of graphite at the bottom of a petri dish. I
+looked at it in an optical microscope and, by focusing on the top and bottom
+surfaces, estimated that the speck was ~10 µm thick. too thick, I thought
+and suggested trying a finer polishing liquid. however, it turned out that da
+had polished away the whole tablet to obtain this one speck. It was actually
+my fault: da successfully finished his phd later, but at that time he was just
+a fresh foreign student with a huge language barrier. moreover, by mistake I
+gave him high-density graphite instead of highly-oriented pyrolytic graphite
+(hopG) as was intended. the former does not shed as easily as hopG.
+oleg Shklyarevskii, a senior fellow from kharkov, Ukraine was working
+nearby and had to listen to the typical flow of my teasing remarks, this time
+about polishing a mountain to get one grain of sand. oleg was an expert in
+scanning tunnelling microscopy (Stm) and worked on a project that later
+turned out to be another bad ‘friday night’ idea of mine. he interjected
+by bringing over a piece of cellotape with graphite flakes attached to it.
+allegedly, he just fished out the tape from a litter bin. Indeed, hopG is
+the standard reference sample for Stm, where a fresh surface of graphite
+is normally prepared by removing a top layer with sticky tape. We used this
+technique for years but never looked carefully at what was thrown away along
+with the tape. I looked in the microscope at the remnants of graphite (figure
+2) and found pieces much thinner than da’s speck. only then did I realise
+how silly it was of me to suggest the polishing machine. polishing was dead,
+long live Scotch tape!
+this moment was not a breakthrough yet, but things started to look
+promising and required more people to get involved. oleg did not volunteer
+to take on yet another project but kostya did. ‘Volunteer’ is probably not the
+right word. everyone in our lab has always been welcome to move around
+and participate in whatever project they want. at that time, kostya was working on a nicely-moving 
+project on ferromagnetism [26]. he was also our
+‘caretaker’ when things went wrong, especially with measuring equipment.
+as for me, at that time I used to spend a few hours a day in the lab preparing
+samples, doing measurements and analysing results. It was only after 2006
+that I turned into a paper-writing machine combined with a data analyser. I
+have always loved the latter but hated to write papers. Unfortunately, no lab
+can survive without its Shakespeare.
+Figure 2. In hindsight, thin crystals of graphite are easy to obtain. a – Remnants of hopG
+left attached to Scotch tape. b – Some of the crystals are optically transparent if viewed in
+an optical microscope or just with a magnifying glass. c – If placed on an oxidised Si wafer,
+transparent crystals give rise to various shades of blue. d – one of our very first devices
+made by using ‘a shoestring and sealing wax’: in this case, tweezers, a toothpick and silver
+paint.
+kostya and I decided to check out the electrical properties of the graphite
+flakes found on the cellotape and, to this end, he started transferring them
+onto glass slides, initially by using just tweezers. a few days later and keeping
+in mind the initial motivation, I brought in oxidised Si wafers in order to use
+them as substrates and detect the efe. this delivered an unexpected bonus.
+placing thin graphite fragments onto those wafers allowed us to observe
+interference colours that indicated that some of the fragments were optically
+transparent. moreover, the colours provided us with a very intuitive way of
+judging which flakes were thin (figure 2c). We quickly found that some of
+them were just a few nm thick. this was our first real breakthrough.
+eUReka moment
+In graphene literature and especially in popular articles, a strong emphasis
+is placed on the Scotch tape technique, and it is hailed for allowing the
+isolation and identification of ultra-thin graphite films and graphene. for
+me, this was an important development but still not a eureka moment. our
+goal always was to find some exciting physics rather than just observing ultrathin films in a microscope.
+Within a couple of days after oleg prompted the use of Scotch tape, kostya
+was already using silver paint to make electrical contacts to graphite platelets
+transferred from the Scotch tape. to our surprise, they turned out to be
+highly conductive and even the painted contacts exhibited a reasonably low
+resistance. the electronic properties could be studied, but we felt it was too
+early to put the ugly-looking devices (see fig. 2d) in a cryostat for proper
+measurements. as a next step, we applied voltage, first, through the glass
+slides and, a bit later, to the Si wafer, using it as a back gate to check for the
+field effect. figure 2 shows a photograph of one of our first devices. the
+central part is a graphite crystal that is ~20 nm thick, and its lateral size is
+comparable to the diameter of a human hair. to transfer the crystal by tweezers from the tape and 
+then make four such closely-spaced contacts by using
+just a toothpick and silver paint is the highest level of experimental skill.
+these days, not many researchers have fingers green enough to make such
+samples. I challenge readers to test their own skills against this benchmark!
+the very first hand-made device on glass exhibited a clear efe such that
+its resistance could be changed by several per cent. It may sound small and
+of marginal importance but, aware of how hard it was previously to detect
+any efe at all, I was truly shocked. If those ugly devices made by hand from
+relatively big and thick platelets already showed some field effect, what
+could happen, I thought, if we were to use our thinnest crystallites and apply
+the full arsenal of microfabrication facilities? there was a click in my head
+that we had stumbled onto something really exciting. this was my eureka
+moment.
+What followed was no longer a random walk. from this point, it was
+only logical to continue along the same path by improving procedures for
+cleaving and finding thinner and thinner crystals and making better and
+better devices, which we did. It was both painstaking and incredibly rapid,
+depending on one’s viewpoint. It took several months until we learned how
+to identify monolayers by using optical and atomic force microscopy. on the
+microfabrication side, we started using electron-beam lithography to define
+proper hall bar devices and started making contacts by metal evaporation
+rather than silver painting. the microfabrication development was led by
+dubonos, aided by his phd student anatoly firsov. Initially, they employed
+facilities in Chernogolovka but, when our new postdoc yuan Zhang got fully
+acquainted with the recently-installed lithography system at our nanotech
+Centre, the process really speeded up.
+the move from multilayers to monolayers and from hand-made to
+lithography devices was conceptually simple but never straightforward. We
+took numerous detours and wasted much effort on ideas that only led us into
+dead ends. an example of grand plans that never worked out was the idea
+to plasma-etch graphite mesas in the form of hall bars which, after cleavage,
+would provide readily shaped devices, or so I thought. later, we had to
+return to the unprocessed graphite. the teething problems we experienced
+at that time can also be illustrated by the fact that initially we believed that
+Si wafers should have a very precise thickness of oxide (within several nm)
+to allow hunting for monolayers. these days we can find graphene on practically any substrate. 
+Crystal sizes also went up from a few microns to nearly a
+millimetre, just by tinkering with procedures and using different sources of
+graphite.
+the most essential part of our 2004 report [27] was the electrical measurements, and this required 
+a lot of work. for several months, kostya and Serge
+morozov were measuring full time, and I was around as well, discussing and
+analysing raw data, often as soon as they appeared on the screen. the feedback to our microfabrication 
+guys was almost instantaneous. as always in the
+case of encountering a new system where one does not know what to expect,
+we had to be particularly careful in those first experiments. We disregarded
+any curve, unless it was reproducible for many devices and, to avoid any premature conclusions, 
+we studied more than 50 ultra-thin devices. those were
+years of hard work compressed into just a few months, but we were excited
+as every new device got better and better, and we could work 24x7, which
+typically meant fourteen hour days and no breaks for the weekends.
+finally, by the end of 2003, we got a reliable experimental picture ready
+for publication. between that moment and the end of my timeline when the
+Science paper was accepted in September 2004, there is a lengthy gap. those
+nine months were consumed by excruciating efforts to publish the results in
+a high-profile journal. We continuously added data and polished the presentation. Irina’s help was 
+invaluable in this time-consuming process, which can
+be fully appreciated only by those readers who ever published in such glossy
+journals. first, we submitted the manuscript to Nature. It was rejected and,
+when further information requested by referees was added, rejected again.
+according to one referee, our report did “not constitute a sufficient scientific
+advance.” Science referees were more generous (or more knowledgeable?),
+and the presentation was better polished by that time. In hindsight, I should
+have saved the time and nerves by submitting to a second-tier journal, even
+though we all felt that the results were ground-breaking. Readers aspiring
+to get published in those glossy magazines and having their papers recently
+rejected can use this story to cheer up: their papers may also be prize
+winning!
+defIant exIStenCe
+one of the most surprising results of our Science report was the observation
+that, after being isolated, atomic planes remained continuous and conductive under ambient conditions. 
+even with hindsight, there are many reasons
+to be surprised.
+first, for many decades researchers studied ultra-thin films, and their
+collective experience proves that continuous monolayers are practically impossible to 
+make (see, e.g., [28,29]). try to evaporate a metal film a few nm
+in thickness, and you will find it discontinuous. the material coagulates into
+tiny islands. this process, called island growth, is universal and driven by the
+fact that a system tries to minimise its surface energy. even by using epitaxial
+substrates that provide an interaction working against the surface energy
+contribution and cooling them down to liquid-helium T, which prevents
+migration of deposited atoms, it is hard to find the right conditions to create
+continuous nm thick films, let alone monolayers [28,29].
+the second reason to be surprised is that theory unequivocally tells us
+that an isolated graphene sheet should be thermodynamically unstable.
+Calculations show that ‘graphene is the least stable [carbon] structure
+until about 6000 atoms’ [30]. Until ~24,000 atoms (that is, a flat sheet with
+a characteristic size of ~25 nm), various 3d configurations are energetically
+more favourable than the 2d geometry [30,31]. for larger sizes, theory shows
+again that a graphene sheet is unstable but now with respect to scrolling.
+the latter conclusion is based on considering competing contributions from
+the bending and surface energies [32,33]. these calculations are specific to
+carbon, but the underlying physics is conceptually connected to the surface
+energy mechanism that leads to island growth.
+third, 2d crystals cannot be grown in isolation, without an epitaxial
+substrate that provides an additional atomic bonding. this follows from the
+landau-peierls argument that shows that the density of thermal fluctuations
+for a 2d crystal in the 3d space diverges with temperature [1]. although the
+divergence is only logarithmic, crystal growth normally requires high T such
+that atoms become sufficiently mobile. this also implies a softer lattice with
+little shear rigidity. the combination of the two conditions sets a limit on possible sizes L of 
+2d atomic crystals. one can estimate L as ~aexp(E/TG) where
+a ~1Å is the lattice spacing, E~1eV the atomic bond energy and TG the growth
+temperature. this consideration should not be applied to graphene at room
+T, which would yield astronomical sizes. TG is usually comparable to the
+bond energy, which renders the disorder-generating mechanism irrelevant
+at much lower T. note that, in principle, self-assembly may allow growth of
+graphene at room T but, so far, this has been achieved only for nm-sized
+graphene sheets [34].
+the fourth and probably the most important reason to be surprised is that
+graphene remains stable under ambient conditions. Surfaces of materials
+can react with air and moisture, and monolayer graphene has not one but
+two surfaces, making it more reactive. Surface science research involves ultrahigh vacuum facilities and, 
+often, liquid-helium T to keep surfaces stable
+and away from reactive species. for example, gold is one of the most inert
+materials in nature but, even for au, it is hard to avoid its near-surface layer
+being partially oxidised in air. What then are the chances for a monolayer
+exposed to ambient conditions to remain unaffected?
+Graphene flouts all the above considerations. It is instructive to analyse
+how. first, any existing method of obtaining graphene starts with 3d rather
+than 2d growth. Graphene sheets are initially formed either within the
+bulk or on top of an epitaxial substrate, which quenches the diverging
+thermal fluctuations. the interaction can be relatively weak, as in the case of
+graphene grown on graphite [35], but it is always present. this allows graphene to dodge the landau-peierls 
+argument and, also, to avoid coagulation
+into islands and 3d carbon structures. Second, if graphene is cleaved or
+released from a substrate, the process is normally carried out at room T so
+that energy barriers remain sufficiently high. this allows atomic planes to
+persist in an isolated, non-scrolled form without any substrate [36], even
+though this is energetically unfavourable. If placed on a substrate, the van
+der Waals interaction may also be sufficient to prevent a graphene sheet
+from scrolling. third, graphite is even more chemically inert than gold.
+although graphene is more reactive than graphite and weakly reacts with
+air and pollutants at room T, this does not destroy its crystal lattice and high
+conductivity [37,38]. It requires T twice as high as room T to irreversibly
+damage graphene in air. our ambient conditions appear fortuitous enough
+for the graphene lattice to survive.
+ReQUIem foR bRIllIant IdeaS
+Science literature is full of brilliant ideas that did not work. Searching the
+literature for those is not a good idea at all. at a start of a new project, a
+couple of decent reviews usually do the job of making sure that one does
+not reinvent the wheel. the alternative can be truly detrimental. I have
+met many promising researchers who later failed to live up to their promise
+because they wasted their time on searching literature, instead of spending
+it on searching for new phenomena. What’s more, after months of literature
+search, they inevitably came to the same conclusion: everything they planned
+had been done before. therefore, they saw no reason to try their own ideas
+and, consequently, began a new literature search. one should realise that
+ideas are never new. however brilliant, every idea is always based on previous
+knowledge and, with so many smart people around, the odds are that some
+one somewhere had already thought of something similar before. this
+should not be used as an excuse for not trying because local circumstances
+vary and, moreover, facilities change with time. new technologies offer a
+reasonable chance that old failed ideas may work unpredictably well the next
+time round.
+In 2002–2003, the merged thought clouds that I would not even call a
+brilliant idea were sufficient to instigate the project. they also provided
+us with an ariadne’s thread that helped with choosing specific directions.
+literature search was done in due course, after we roughly scouted the new
+area and especially when the results were being prepared for publication. In
+addition to the literature relevant to the thought clouds, our Science paper
+cited the challenges of obtaining isolated 2d crystals, their thermodynamic
+instability, the observation of nanoscrolls and papers on epitaxial growth.
+those references were important to show the experimental progress we
+achieved. the first review of earlier literature was done in our 2007 progress
+article [1]. Since then, I updated my conference presentations whenever
+a historically important paper came to light. this is the first opportunity
+to update the history chapter in writing by adding several new references.
+furthermore, my recent call for further historical insights [39] was answered
+by a number of researchers and, for completeness, I want to acknowledge
+their early ideas and contributions, too.
+GRaphene InCaRnatIonS
+looking back at graphene history, we should probably start with an observation by the british chemist 
+benjamin brodie [40]. In 1859, by exposing
+graphite to strong acids, he obtained what he called ‘carbonic acid’ (figure
+3a). brodie believed that he discovered ‘graphon’, a new form of carbon with
+a molecular weight of 33. today we know that he observed a suspension of
+tiny crystals of graphene oxide, that is, graphene sheets densely covered with
+hydroxyl and epoxide groups [41]. over the next century, there were quite
+a few papers describing the laminated structure of graphite oxide, but the
+next crucial step in graphene history was the proof that this ‘carbonic acid’
+consisted of floating atomic planes. In 1948, G. Ruess and f. Vogt used
+transmission electron microscopy (tem) and, after drying a droplet of a
+graphene-oxide suspension on a tem grid, they observed creased flakes
+down to a few nm in thickness [42]. these studies were continued by the
+group of Ulrich hofmann. In 1962, he and hanns-peter boehm looked for
+the thinnest possible fragments of reduced graphite oxide and identified
+some of them as monolayers [43] (figure 3b).
+this remarkable observation received little attention until 2009–2010.
+I have to mention that the 1962 identification relied on a relative tem
+contrast, an approach that would not stand today’s scrutiny because the
+contrast strongly depends on focusing conditions [44]. for example, Rahul
+nair and I tried but predictably failed to distinguish between monolayers
+and somewhat thicker flakes by using only their tem contrast. Graphene
+monolayers were unambiguously identified in tem only forty years after the
+1962 paper by counting the number of folding lines [45–47]. nonetheless,
+the boehm-hofmann work should, in my opinion, stand as the first observation of graphene because 
+monolayers should have been present among
+the residue, and the idea was correct. furthermore, it was boehm and his
+colleagues who in 1986 introduced the term graphene, deriving it from the
+combination of the word ‘graphite’ and the suffix that refers to polycyclic
+aromatic hydrocarbons [48].
+In addition to the tem observations, another important line in pre-2004
+graphene research was its epitaxial growth. Ultra-thin graphitic films and,
+sometimes, even monolayers were grown on metal substrates [49–53],
+insulating carbides [54–57] and graphite [35] (see fig. 3d). the first papers
+I am aware of go back to 1970 when john Grant reported graphitic films on
+Ru and Rh [49] and blakely et al. on ni [50]. epitaxial growth on insulating
+substrates was first demonstrated by van bommel et al. in 1975 [54] whereas
+Figure 3. prehistory of graphene. a – Graphene as probably seen by brodie 150 years ago.
+Graphite oxide at the bottom of the container dissolves in water making the yellow suspension of 
+floating graphene flakes. b – tem image of ultra-thin graphitic flakes from the
+early 1960s (copied with permission from ref. [43]). c – Scanning electron microscopy
+(Sem) image of thin graphite platelets produced by cleavage (similar to images reported
+in ref. [60]). d – Stm of graphene grown on pt (copied with permission from ref. [53]).
+the image is 100x100 nm2 in size. the hexagonal superstructure has a period of ~22 Å and
+appears due to the interaction of graphene with the metal substrate.
+Chuhei oshima found other carbides allowing graphene growth (for
+example, tiC) [55]. the grown films were usually analysed by surface
+science techniques that average over large areas and say little about the film’s
+continuity and quality. occasionaly, Stm was also used for visualisation and
+local analysis.
+even more relevant were earlier attempts to obtain ultra-thin films of
+graphite by cleavage, similar to what we did in 2003. In 1990, heinrich kurz’s
+group reported ‘peeling optically thin layers with transparent tape’ (read
+Scotch tape), which were then used to study carrier dynamics in graphite
+[58]. In 1995, thomas ebbesen and hidefumi hiura described few-nm-thick
+‘origami’ visualised by atomic force microscopy (afm) on top of hopG
+[59]. Rod Ruoff also photographed thin graphite platelets in Sem [60] (fig.
+3c). In 2003, monolayers were reported by yang Gan who used Stm for their
+cleavage on top of hopG [61].
+finally, there were electrical studies of thin graphite films. between 1997
+and 2000, yoshiko ohashi succeeded in cleaving crystals down to ~20 nm in
+thickness, studied their electrical properties including Shubnikov – de haas
+oscillations and, quite remarkably, observed the electric field effect with
+resistivity changes of up to 8% [62,63]. also, ebbesen’s group succeeded in
+growth of micron-sized graphitic disks with thickness down to 60 layers and
+measured their electrical properties [64].
+as for theory, let me make only a short note (for more references, see
+[1,65]). theoretically, graphene (‘a monolayer of graphite’) was around
+since 1947 when phil Wallace first calculated its band structure as a starting
+point to understanding the electronic properties of bulk graphite [66].
+Gordon Semenoff and duncan haldane realised that graphene could
+provide a nice condensed-matter analogue of (2+1)-dimensional quantum
+electrodynamics [67,68] and, since then, the material served as a toy model
+to address various questions of Qed (see, e.g., [69,70]). many of the theories
+became relevant to experiment well before 2004, when electronic properties
+of carbon nanotubes (rolled-up graphene ribbons) were investigated. a large
+amount of important theoretical work on graphene was done by tsuneya
+ando, and millie dresselhaus and co-workers (see, e.g., [71–73]).
+to complete the history of graphene, let me also acknowledge some
+earlier ideas. thomas ebbesen and hidefumi hiura envisaged a possibility
+of graphene-based nanoelectronics in 1995 (as an example, they referred
+to epitaxial graphene grown on tiC) [59]. In patent literature, speculations
+about “field effect transistors employing pyrolytic graphite” go back as far as
+1970 [74]. also, it was pointed out to me by Rod Ruoff and Reginald little
+that their pre-2004 papers discussed possibilities and mentioned an intention
+of obtaining isolated monolayers [60,75]. finally, the layered structure of
+graphite was known since early days of x-ray crystallography, and researchers certainly have been 
+aware of graphite being a deck of weakly bonded
+graphene planes for an even longer time. this property has been widely used
+to create a variety of intercalated graphite compounds [23] and, of course,
+to make drawings. after all, we now know that isolated monolayers can be
+found in every pencil trace, if one searches carefully enough in an optical
+microscope [2]. Graphene has literally been before our eyes and under our
+noses for many centuries but was never recognised for what it really is.
+Πλανήτη GRaphene
+the reader may find some of the cited ideas and historical papers irrelevant,
+but I tried my best to avoid any pre-2004 result, especially experimental,
+being overlooked. all the mentioned studies poked in the right direction,
+but there were no big surprises to spark a graphene gold rush. this is
+probably because the earlier experiments had one thing in common. they
+were observational. they observed ultra-thin graphitic films, and occasionaly
+even monolayers without reporting any of graphene’s distinguishing properties. the very few 
+electrical and optical measurements cited above were done
+using thin films of graphite and could not assess the physics that graphene
+has brought to the fore since 2004.
+our Science paper provided a clear watershed. of course, the article
+reported the isolation of graphene crystals large enough to do all sorts
+of measurements, beyond the observation in an electron or scanning
+probe microscope. the method of graphene isolation and identification it
+described was so straightforward and accessible that even schoolchildren
+could probably do it. this was important but, if we were to stop there, just
+with the observations, our work would only add to the previous literature
+and, I believe, disappear into oblivion. It is not the observation and isolation
+of graphene but its electronic properties that took researchers by surprise.
+our measurements delivered news well beyond the Scotch tape technique,
+which persuaded many researchers to join in the graphene rush.
+first, the 2004 paper reported an ambipolar electric field effect, in which
+resistivity changed by a factor of ~100. this is thousands of times more than
+the few per cent changes observed previously for any metallic system and
+amounted to a qualitative difference. to appreciate the exquisiteness of this
+observation, imagine a nanometre thick au film. no matter what you do
+with such a film by physical means, it will remain a normal metal with the
+same properties. In contrast, properties of graphene can be altered by simply
+varying the gate voltage. We can tune graphene from a state close to a normal
+metal with electrons in concentration ~1021 cm–3 to a metal with a similar
+concentration of holes, all the way through a ‘semiconducting’ state with few
+charge carriers.
+even more remarkably, our devices exhibited an astonishing electronic
+quality. Graphene was completely unprotected from the environment, as
+it was placed on a microscopically rough substrate and covered from both
+sides with adsorbates and a polymer residue. Still, electrons could travel
+submicron distances without scattering, flouting all the elements outside.
+this level of electronic quality is completely counterintuitive. It contradicts
+the common wisdom that surface science requires ultra-high vacuum and,
+even then, thin films become progressively poorer in quality as their thickness
+decreases. even with hindsight, such electronic quality is mystifying and, in
+fact, not fully understood so far.
+In semiconductor physics, electronic quality is described in terms of
+charge carrier mobility µ. our Science paper reported graphene with
+room-T µ ≈10,000 cm2/Vs (as of 2010, µ can be 10 and 100 times higher
+at room and low T, respectively [76,77]). for a general reader, 10,000 may
+sound like just another number. to explain its significance, let us imagine
+that in 2004 we made devices from, for example, reduced graphene oxide,
+which exhibits µ ~1cm2/Vs due to its irreversibly damaged crystal lattice [78].
+In our second paper on graphene [79], we reported 2d dichalcogenides with
+equally low µ. Since then, there has been little interest in them. the reported
+ballistic transport over submicron distances was essential to spark interest in
+graphene and to allow the observation of many quantum effects reported
+both in 2004 and later. this would have been impossible if graphene exhibited
+µ below several 1,000 cm2/Vs.
+If not for graphene’s high quality and tunability, there would be no new
+physics and, therefore, no graphene boom. In this respect, graphene history has something in 
+common with that of solar planets. ancient Greeks
+observed them and called them wandering stars, πλανήτες. after the physics
+behind this wandering was discovered, people started perceiving planets
+quite differently from πλανήτες. Similarly, during the last six years people
+discovered what graphene really is, which completely changed the earlier
+perception. our Science paper offered the first glimpse of graphene in its new
+avatar as a high quality 2d electronic system and beyond.
+maGIC of flat CaRbon
+What is this new incarnation? for me, 2004 was only the starting point for
+the unveiling of many unique properties of graphene. Since then, we have
+demonstrated that charge carriers in graphene are massless fermions
+described by a dirac-like equation rather than by the standard Schrödinger
+equation [80]. In bilayer graphene, electrons receive yet another makeup
+as massive dirac fermions [81]. these properties were unveiled by the
+observation of two new types of the integer quantum hall effect, which
+corresponded to the two types of dirac fermions [1,65]. We also found
+that graphene remained metallic in the limit of no charge carriers, even
+when just a few electrons remained present in a micron-sized device [1,77].
+our experiments have revealed that graphene exhibits a universal optical
+conductivity of πe2/2h, such that its visible opacity is just πα, where α is
+the fine structure constant [82]. We suggested that the phenomenon of
+klein tunnelling, which was known in relativistic quantum physics for many
+decades but assumed non-observable, could be probed using graphene
+devices [83]. Several groups later demonstrated this experimentally. We were
+lucky to be slightly quicker than others in showing that bilayer graphene was
+a tuneable-gap semiconductor [84] and that graphene could be carved into
+devices on a true nm scale [85]. We demonstrated sensors capable of detecting
+individual molecules, more sensitive than any sensor before [38]. We suggested
+that strain in graphene creates pseudo-magnetic fields that alter its electronic properties [86] 
+and later discussed the possibility of creating uniform
+pseudo-fields and observation of the quantum hall effect without an
+external magnetic field [87]. pseudo-magnetic fields in excess of 400 t were
+reported experimentally half a year later. We made the first step into graphene
+chemistry by experimentally introducing its derivatives, graphane and
+stoichiometric fluorographene [88,89]. this is not even an exhaustive list of
+the nice phenomena that we and our collaborators found in graphene and,
+of course, many other researchers reported many other beautiful discoveries
+that propelled graphene into its new status of a system that can nearly deliver
+magic.
+ode to one
+after reading about the beautiful properties of graphene, the reader may
+wonder why many atomic layers stacked on top of each other, as in graphite,
+do not exhibit similar properties. of course, any graphitic derivative has
+something in common with its parent, but in the case of graphene, differences between the parent 
+and descendants are fundamental. to appreciate
+this, let us simplify the task and compare graphene with its bilayer. the
+crucial distinctions are already there.
+first, graphene exhibits record stiffness and mechanical strength [90]. as
+for its bilayer, this strength is jeopardised by the possibility that the two layers
+will slide relative to each other. this leads to a principal difference if, for
+example, graphene or any thicker platelets are used in composite materials.
+Second, graphene chemistry is different depending on whether one or both
+surfaces of a monolayer are exposed. for example, atomic hydrogen cannot
+bind to graphene from one side but makes a stoichiometric compound
+(graphane) if both surfaces are exposed. this makes graphene much more
+reactive than its bilayer. third, an electric field is screened in graphite at
+distances of about the interlayer separation, and the electric screening
+becomes important even for a bilayer. for multilayer graphene, the electric
+field can dope no more than a couple of near-surface atomic planes, leaving
+the bulk unaffected. this makes it naïve to speculate about the use of graphitic multilayers in 
+active electronics. fourth, charge carriers in a monolayer
+are massless dirac fermions whereas they are massive in a graphene bilayer.
+this leads to essential differences in many electronic properties including
+Shubnikov-de haas oscillations, quantum hall effect, klein tunnelling and
+so on. the Sorites paradox refers to a moment when a heap is no longer a
+heap if the grains are removed one by one. for graphene, even its bilayer is
+so different that two already make a heap.
+to ColleaGUeS and fRIendS
+our Science report was a collective effort, and I would again – on behalf of
+kostya and myself – like to thank all the other contributors. Serge morozov
+was and remains our ‘multitasking measurement machine’ working 24x7
+when in manchester. his electrical measurement skills are unmatched, and
+I know that any curve he brings in is completely reliable and no questions
+are ever asked whether this and that was checked and crosschecked. da
+jiang was around from the very start, and it is unfortunate that I had to take
+the project away from him because it was beyond the scope of a single new
+phd student. Sergey dubonos and yuan Zhang were the ones who made all
+the devices without which our work would obviously have been impossible. I
+utterly regret that our life trajectories have later diverged and, especially, that
+Sergey has switched from microfabrication technology to goat farming. I also
+acknowledge help of anatoly firsov in making those devices. Irina Grigorieva
+helped with scanning electron microscopy but, more importantly, with
+writing up the 2004 manuscript.
+Figure 4. those who made our first graphene paper possible but did not get the prize.
+the end of my timeline was only a start for further hard work involving
+many collaborators. our rapid progress would be impossible without misha
+katsnelson who provided us with all the theoretical help an experimentalist
+can only dream of. Since 2006, I have been enjoying collaboration with
+other great theory guys including antonio Castro neto, paco Guinea, nuno
+peres, Volodya fal’ko, leonid levitov, allan macdonald, dima abanin, tim
+Wehling and their co-workers. In particular, I want to acknowledge many
+illuminating discussions and banter over dinners with antonio and paco.
+as for experimentalists, the list is longer and includes philip kim, ernie
+hill, andrea ferrari, eva andrei, alexey kuzmenko, Uschi bangert, Sasha
+Grigorenko, Uli Zeitler, jannik meyer, marek potemskii and many of their
+colleagues.
+philip deserves special praise. In august 2004, before our Science paper
+was published, his group submitted another important paper [91]. his
+report described electronic properties of ultra-thin graphite platelets (down
+to ~35 layers). except for the thicker devices, philip’s group followed the
+same route as our now-celebrated paper. how close he was can be judged
+from the fact that, after adopting the Scotch tape technique, philip started
+studying monolayers in early 2005. this allowed him to catch up quickly and,
+in mid-2005, our two groups submitted independent reports that appeared
+back-to-back in Nature, both describing the all-important observation of dirac
+fermions in monolayer graphene [80,92]. later, I had the pleasure of closely
+working with philip on two joint papers, for Science and Scientific American. for
+me personally, those back-to-back Nature papers signified a watershed. people
+within the large semiconducting community no longer rumoured that ‘the
+results were as difficult to reproduce as those by hendrik Schön’, and friends
+no longer stopped me in corridors with ‘be more careful; you know …’ I owe
+philip a great deal for this, and many people heard me saying – before and
+after the nobel prize – that I would be honoured to share it with him.
+last but not least, let me acknowledge many bright young, and not so
+young, colleagues: peter blake, Rahul nair, Roman Gorbachev, leonid
+ponomarenko, fred Schedin, daniel elias, Sasha mayorov, Rui yang, Vasyl
+kravets, Zhenhua ni, Wencai Ren, Rashid jalil, Ibtsam Riaz, Soeren neubeck,
+tariq mohiuddin and tim booth. they were phd students and postdocs
+here in manchester over the last six years and, as always, I avoid using the
+feudal word ‘my’.
+finally, I acknowledge the financial support of epSRC in its best, that is,
+the responsive mode. this nobel prize would be absolutely impossible without this mode. let me 
+also thank the Royal Society and the leverhulme trust
+for reducing my teaching loads, which allowed me to focus on the project.
+I have also received funding from the office of naval Research and the air
+force office of Scientific Research, which helped us to run even faster. the
+körber foundation is gratefully acknowledged for its 2009 award. however,
+I can offer no nice words for the eU framework programmes which, except
+for the european Research Council, can be praised only by europhobes for
+discrediting the whole idea of an effectively working europe.

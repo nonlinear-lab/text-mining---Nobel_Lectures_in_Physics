@@ -1,0 +1,409 @@
+Werner Heisenberg
+The development of quantum mechanics
+Nobel Lecture, December 11, 1933
+Quantum mechanics, on which I am to speak here, arose, in its formal content, 
+from the endeavour to expand Bohr's principle of correspondence to
+a complete mathematical scheme by refining his assertions. The physically
+new viewpoints that distinguish quantum mechanics from classical physics
+were prepared by the researches of various investigators engaged in analysing
+the difficulties posed in Bohr's theory of atomic structure and in the radiation theory of light.
+In 1900, through studying the law of black-body radiation which he had
+discovered, Planck had detected in optical phenomena a discontinuous phenomenon totally 
+unknown to classical physics which, a few years later, was
+most precisely expressed in Einstein's hypothesis of light quanta. The impossibility of 
+harmonizing the Maxwellian theory with the pronouncedly
+visual concepts expressed in the hypothesis of light quanta subsequently
+compelled research workers to the conclusion that radiation phenomena can
+only be understood by largely renouncing their immediate visualization. The
+fact, already found by Planck and used by Einstein, Debye, and others, that
+the element of discontinuity detected in radiation phenomena also plays an
+important part in material processes, was expressed systematically in Bohr's
+basic postulates of the quantum theory which, together with the BohrSommerfeld quantum 
+conditions of atomic structure, led to a qualitative
+interpretation of the chemical and optical properties of atoms. The acceptance of these 
+basic postulates of the quantum theory contrasted uncompromisingly with the application of 
+classical mechanics to atomic systems,
+which, however, at least in its qualitative affirmations, appeared indispensable for 
+understanding the properties of atoms. This circumstance was a fresh
+argument in support of the assumption that the natural phenomena in which
+Planck's constant plays an important part can be understood only by largely
+foregoing a visual description of them. Classical physics seemed the limiting
+case ofvisualization of a fundamentally unvisualizable microphysics, the more
+accurately realizable the more Planck's constant vanishes relative to the
+parameters of the system. This view of classical mechanics as a limiting case
+of quantum mechanics also gave rise to Bohr's principle of correspondence
+which, at least in qualitative terms, transferreda number of conclusions formulated in 
+classical mechanics to quantum mechanics. In connection with
+the principle of correspondence there was also discussion whether the quantum-mechanical laws 
+could in principle be of a statistical nature; the possibility became particularly apparent in 
+Einstein's derivation of Planck's law
+of radiation. Finally, the analysis of the relation between radiation theory
+and atomic theory by Bohr, Kramers, and Slater resulted in the following
+scientific situation:
+According to the basic postulates of the quantum theory, an atomic system is capable of 
+assuming discrete, stationary states, and therefore discrete
+energy values; in terms of the energy of the atom the emission and absorption of light by 
+such a system occurs abruptly, in the form of impulses. On
+the other hand, the visualizable properties of the emitted radiation are described by a wave field, 
+the frequency of which is associated with the difference in energy between the initial and final 
+states of the atom by the
+relation
+E₁-E2=hv
+To each stationary state of an atom corresponds a whole complex of parameters which specify 
+the probability of transition from this state to another.
+There is no direct relation between the radiation classically emitted by an
+orbiting electron and those parameters defining the probability of emission;
+nevertheless Bohr's principle of correspondence enables a specific term of
+the Fourier expansion of the classical path to be assigned to each transition
+of the atom, and the probability for the particular transition follows qualitatively similar laws 
+as the intensity ofthose Fourier components. Although
+therefore in the researches carried out by Rutherford, Bohr, Sommerfeld
+and others, the comparison of the atom with a planetary system of electrons
+leads to a qualitative interpretation of the optical and chemical properties
+of atoms, nevertheless the fundamental dissimilarity between the atomic
+spectrum and the classical spectrum of an electron system imposes the need
+to relinquish the concept of an electron path and to forego a visual description of the atom.
+The experiments necessary to define the electron-path concept also furnish
+an important aid in revising it. The most obvious answer to the question
+how the orbit of an electron in its path within the atom could be observed
+namely, will perhaps be to use a microscope of extreme resolving power.
+But since the specimen in this microscope would have to be illuminated with
+light having an extremely short wavelength, the first light quantum from
+the light source to reach the electron and pass into the observer's eye would
+eject the electron completely from its path in accordance with the laws of
+the Compton effect. Consequently only one point of the path would be
+observable experimentally at any one time.
+In this situation, therefore, the obvious policy was to relinquish at first
+the concept of electron paths altogether, despite its substantiation by Wilson's experiments, and, 
+as it were, to attempt subsequently how much of
+the electron-path concept can be carried over into quantum mechanics.
+In the classical theory the specification of frequency, amplitude, and phase
+of all the light waves emitted by the atom would be fully equivalent to
+specifying its electron path. Since from the amplitude and phase of an emitted
+wave the coefficients of the appropriate term in the Fourier expansion of
+the electron path can be derived without ambiguity, the complete electron
+path therefore can be derived from a knowledge ofall amplitudes and phases.
+Similarly, in quantum mechanics, too, the whole complex of amplitudes
+and phases of the radiation emitted by the atom can be regarded as a complete description of the 
+atomic system, although its interpretation in the sense
+of an electron path inducing the radiation is impossible. In quantum mechanics, therefore, 
+the place of the electron coordinates is taken by a complex
+of parameters corresponding to the Fourier coefficients of classical motion
+along a path. These, however, are no longer classified by the energy of state
+and the number of the corresponding harmonic vibration, but are in each
+case associated with two stationary states of the atom, and are a measure for
+the transition probability of the atom from one stationary state to another.
+A complex of coefficients of this type is comparable with a matrix such as
+occurs in linear algebra. In exactly the same way each parameter of classical
+mechanics, e.g.the momentum or the energy of the electrons, can then be
+assigned a corresponding matrix in quantum mechanics. To proceed from
+here beyonda mere description of the empirical state of affairs it was necessary to associate systematically 
+the matrices assigned to the various parameters in the same way as the corresponding parameters in 
+classical mechanics are associated by equations of motions. When, in the interest of achieving
+the closest possible correspondence between classical and quantum mechanics, the addition and 
+multiplication of Fourier series were tentatively taken
+as the example for the addition and multiplication of the quantum-theory
+complexes, the product of two parameters represented by matrices appeared
+to be most naturally represented by the product matrix in the sense of linear
+algebra-an assumption already suggested by the formalism ofthe KramersLadenburg dispersion theory.
+It thus seemed consistent simply to adopt in quantum mechanics the equations of motion of classical physics, 
+regarding them as a relation between
+the matrices representing the classical variables. The Bohr-Sommerfeld quantum conditions could also 
+be re-interpreted ina relation between the matrices, and together with the equations of motion 
+they were sufficient to
+define all matrices and hence the experimentally observable properties ofthe
+atom.
+Born, Jordan, and Dirac deserve the credit for expanding the mathematical scheme outlined above 
+into a consistent and practically usable theory.
+These investigators observed in the first place that the quantum conditions
+can be written as commutation relations between the matrices representing
+the momenta and the coordinates of the electrons, to yield the equations (pr,
+momentum matrices; qr, coordinate matrices):
+Prqsqspr= Örs 9rqs-9sqr =0 Prps Pspr=0 2πί
+Ors =
+( I for r = s
+o for rs
+By means of these commutation relations they were able to detect in quantum mechanics as well 
+the laws which were fundamental to classical mechanics: the invariability in time of energy, 
+momentum, and angular momentum.
+The mathematical scheme so derived thus ultimately bears an extensive
+formal similarity to that of the classical theory, from which it differs outwardly by the 
+commutation relations which, moreover, enabled the equations of motion to be derived from the 
+Hamiltonian function.
+In the physical consequences, however, there are very profound differences between quantum 
+mechanics and classical mechanics which impose the
+need for a thorough discussion of the physical interpretation of quantum
+mechanics. As hitherto defined, quantum mechanics enables the radiation
+emitted by the atom, the energy values of the stationary states, and other
+parameters characteristic for the stationary states to be treated. The theory
+hence complies with the experimental data contained in atomic spectra. In
+all those cases, however, where a visual description is required of a transient
+event, e.g. when interpreting Wilson photographs,the formalism ofthe theory does not seem to allow 
+an adequate representation of the experimental
+state of affairs. At this point Schrödinger's wave mechanics, meanwhile developed on the basis of 
+de Broglie's theses, came to the assistance of quantum mechanics.
+In the course of the studies which Mr. Schrödinger will report here himself he converted the 
+determination of the energy values of an atom into an
+eigenvalue problem defined by a boundary-value problem in the coordinate
+space of the particular atomic system. After Schrödinger had shown the
+mathematical equivalence of wave mechanics, which he had discovered,
+with quantum mechanics, the fruitful combination of these two different
+areas of physical ideas resulted in an extraordinary broadening and enrichment of the formalism 
+of the quantum theory. Firstly it was only wave
+mechanics which made possible the mathematical treatment of complex
+atomic systems, secondly analysis of the connection between the two theories led to what is known 
+as the transformation theory developed by Dirac
+and Jordan. As it is impossible within the limits ofthe present lecture to give
+a detailed discussion of the mathematical structure of this theory, I should
+just like to point out its fundamental physical significance. Through the
+adoption of the physical principles of quantum mechanics into its expanded
+formalism, the transformation theory made it possible in completely general
+terms to calculate for atomic systems the probability for the occurrence of a
+particular, experimentally ascertainable, phenomenon under given experimental conditions. 
+The hypothesis conjectured in the studies on the radiation theory and enunciated in precise terms 
+in Born's collision theory, namely that the wave function governs the probability for the presence 
+of a corpuscle, appeared to be a special case of a more general pattern of laws and
+to be a natural consequence of the fundamental assumptions of quantum
+mechanics. Schrödinger, and in later studies Jordan, Klein, and Wigner as
+well, had succeeded in developing as far as permitted by the principles of
+the quantum theory de Broglie's original concept of visualizable matter
+waves occurring in space and time,a concept formulated even before the
+development of quantum mechanics. But for that the connection between
+Schrödinger's concepts and de Broglie's original thesis would certainly have
+seemed a looser one by this statistical interpretation of wave mechanics and
+by the greater emphasis on the fact that Schrödinger's theory is concerned
+with waves in multidimensional space. Before proceeding to discuss the
+explicit significance of quantum mechanics it is perhaps right for me to deal
+briefly with this question as to the existence of matter waves in three-dimensional space, 
+since the solution to this problem was only achieved by combining wave and quantum mechanics.
+A long time before quantum mechanics was developed Pauli had inferred
+from the laws in the Periodic System of the elements the well-known principle that a particular 
+quantum state can at all times be occupied by only a
+single electron. It proved possible to transfer this principle to quantum mechanics on the basis 
+ofwhat at first sight seemed a surprising result: the entire
+complex of stationary states which an atomic system is capable of adopting
+breaks down into definite classes such that an atom in a state belonging to
+one class can never change into a state belonging to another class under the
+action of whatever perturbations. As finally clarified beyond question by
+the studies of Wigner and Hund, such a class of states is characterized by a
+definite symmetry characteristic of the Schrödinger eigenfunction with respect to the transposition 
+of the coordinates of two electrons. Owing to the
+fundamental identity of electrons, any external perturbation of the atom
+remains unchanged when two electrons are exchanged and hence causes no
+transitions between states of various classes. The Pauli principle and the
+Fermi-Dirac statistics derived from it are equivalent with the assumption
+that only that class of stationary states is achieved in nature in which the
+eigenfunction changes its sign when two electrons are exchanged. According
+to Dirac, selecting the symmetrical system of terms would lead not to the
+Pauli principle, but to Bose-Einstein electron statistics.
+Between the classes of stationary states belonging to the Pauli principle
+or to Bose-Einstein statistics, and de Broglie's concept of matter waves
+there is a peculiar relation. A spatial wave phenomenon can be treated according to the principles 
+of the quantum theory by analysing it using the
+Fourier theorem and then applying to the individual Fourier component of
+the wave motion, as a system having one degree of freedom, the normal
+laws of quantum mechanics. Applying this procedure for treating wave
+phenomena by the quantum theory, a procedure that has also proved fruitful in Dirac's studies of 
+the theory of radiation, to de Broglie's matter
+waves, exactly the same results are obtained as in treating a whole complex
+of material particles according to quantum mechanics and selecting the symmetrical system of terms. 
+Jordan and Klein hold that the two methods are
+mathematically equivalent even if allowance is also made for the interaсtion of the electrons, 
+i.e. if the field energy originating from the continuous space charge is included in the calculation 
+in de Broglie's wave theory.
+Schrödinger's considerations of the energy-momentum tensor assigned to
+the matter waves can then also be adopted in this theory as consistent components of the formalism. 
+The studies ofJordan and Wigner show that modifying the commutation relations underlying this 
+quantum theory of waves
+results in a formalism equivalent to that of quantum mechanics based on the
+assumption of Pauli's exclusion principle.
+These studies have established that the comparison of an atom with a planetary system composed of 
+nucleus and electrons is not the only visual picture
+of how we can imagine the atom. On the contrary, it is apparently no less
+correct to compare the atom with a charge cloud and use the correspondence
+to the formalism of the quantum theory borne by this concept tot derive
+qualitative conclusions about the behaviour of the atom. However, it is the
+concern of wave mechanics to follow these consequences.
+Reverting therefore to the formalism of quantum mechanics; its application to physical problems is 
+justified partly by the original basic assumptions
+of the theory, partly by its expansion in the transformation theory on the
+basis of wave mechanics, and the question is now to expose the explicit
+significance of the theory by comparing it with classical physics.
+In classical physics the aim of research was to investigate objective processes occurring in space 
+and time, and to discover the laws governing their
+progress from the initial conditions. In classical physics a problem was considered solved when 
+a particular phenomenon had been proved to occur
+objectively in space and time, and it had been shown to obey the general
+rules of classical physics as formulated by differential equations. The manner
+in which the knowledge of each process had been acquired, what observations may possibly have led 
+to its experimental determination, was completely immaterial, and it was also immaterial for 
+the consequences of the classical theory, which possible observations were to verify the predictions 
+of the theory. In the quantum theory, however, the situation is completely
+different. The very fact that the formalism of quantum mechanics cannot
+be interpreted as visual description of a phenomenon occurring in space and
+time shows that quantum mechanics is in no way concerned with the objective determination of 
+space-time phenomena. On the contrary, the formalism of quantum mechanics should be used in such a way 
+that the probability for the outcome of a further experiment may be concluded from the determination 
+of an experimental situation in an atomic system, providing
+that the system is subject to no perturbations other than those necessitated
+by performing the two experiments. The fact that the only definite known
+result to be ascertained after the fullest possible experimental investigation
+ofthe system is the probability for a certain outcome of a second experiment
+shows, however, that each observation must entail a discontinuous change in
+the formalism describing the atomic proces sand therefore also a discontinuous change in the physical 
+phenomenon itself. Whereas in the classical
+theory the kind of observation has no bearing on the event, in the quantum
+theory the disturbance associated with each observation of the atomic phenomenon has a decisive role. 
+Since, furthermore, the result of an observation
+as a rule leads only to assertions about the probability of certain results of
+subsequent observations, the fundamentally unverifiable part of each perturbation must, as shown by Bohr, 
+be decisive for the non-contradictory
+operation of quantum mechanics. This difference between classical and
+atomic physics is understandable, of course, since for heavy bodies such as
+the planets moving around the sun the pressure of the sunlight which is
+reflected at their surface and which is necessary for them to be observed is
+negligible; for the smallest building units of matter, however, owing to their
+low mass, every observation has a decisive effect on their physical behaviour.
+The perturbation of the system to be observed caused by the observation
+is also an important factor in determining the limits within which a visual
+description of atomic phenomena is possible. If there were experiments
+which permitted accurate measurement of all the characteristics of an atomic
+system necessary to calculate classical motion, and which, for example, sup
+plied accurate values for the location and velocity of each electron in the
+system at a particular time, the result of these experiments could not be
+utilized at all in the formalism, but rather it would directly contradict the
+formalism. Again, therefore, it is clearly that fundamentally unverifiable part
+of the perturbation of the system caused by the measurement itself which
+hampers accurate ascertainment of the classical characteristics and thus permits quantum mechanics to 
+be applied. Closer examination of the formalism shows that between the accuracy with which the location 
+of a particle can be ascertained and the accuracy with which its momentum can
+simultaneously be known, there is a relation according to which the product
+of the probable errors in the measurement of the location and momentum
+is invariably at least as large as Planck's constant divided by 47. In a very
+general form, therefore, we should have
+Дp 4q>h
+where p and q are canonically conjugated variables. These uncertainty relations for the results 
+of the measurement of classical variables form the necessary conditions for enabling the result of 
+a measurement to be expressed
+in the formalism of the quantum theory. Bohr has shown in a series of
+examples how the perturbation necessarily associated with each observation
+indeed ensures that one cannot go below the limit set by the uncertainty
+relations. He contends that in the final analysis an uncertainty introduced
+by the concept of measurement itselfis responsible for part ofthat perturbation remaining 
+fundamentally unknown. The experimental determination
+ofwhatever space-time events invariably necessitates a fixed frame - say the
+system of coordinates in which the observer is at rest - to which all measurements are referred. 
+The assumption that this frame is «fixed» implies
+neglecting its momentum from the outset, since «fixed» implies nothing
+other, of course, than that any transfer of momentum to it will evoke no
+perceptible effect. The fundamentally necessary uncertainty at this point is
+then transmitted via the measuring apparatus into the atomic event.
+Since in connection with this situation it is tempting to consider the possibility of eliminating 
+all uncertainties by amalgamating the object, the measuring apparatuses, and the observer into 
+one quantum-mechanical system,
+it is important to emphasize that the act of measurement is necessarily visualizable, since, of course, 
+physics is ultimately only concerned with the systematic description of space-time processes. 
+The behaviour of the observer
+as well as his measuring apparatus must therefore be discussed according to
+the laws of classical physics, as otherwise there is no further physical problem
+whatsoever. Within the measuring apparatus, as emphasized by Bohr, all
+events in the sense of the classical theory will therefore be regarded as determined, this also 
+being a necessary condition before one can, from a result of
+measurements, unequivocally conclude whathas happened. In quantum theory, too, the scheme of 
+classical physics which objectifies the results of observation by assuming in space and time 
+processes obeying laws is thus carried through up to the point where the fundamental limits are imposed by
+the unvisualizable character of the atomic events symbolized by Planck's
+constant. A visual description for the atomic events is possible only within
+certain limits of accuracy - but within these limits the laws of classical physics also still apply. 
+Owing to these limits of accuracy as defined by the uncertainty relations, moreover, a visual picture of 
+the atom free from ambiguity has not been determined. On the contrary the corpuscular and the
+wave concepts are equally serviceable as a basis for visual interpretation.
+The laws of quantum mechanics are basically statistical. Although the
+parameters of an atomic system are determined in their entirety by an experiment, the result of a 
+future observation of the system is not generally
+accurately predictable. But at any later point of time there are observations
+which yield accurately predictable results. For the other observations
+only the probability for a particular outcome of the experiment can be given.
+The degree of certainty which still attaches to the laws of quantum mechanics is, for example, 
+responsible for the fact that the principles of conservation for energy and momentum still hold as 
+strictly as ever. They can be
+checked with any desired accuracy and will then be valid according to the
+accuracy with which they are checked. The statistical character of the laws
+of quantum mechanics, however, becomes apparent in that an accurate
+study of the energetic conditions renders it impossible to pursue at the same
+time a particular event in space and time.
+For the clearest analysis of the conceptual principles of quantum mechanics we are indebted to Bohr who, 
+in particular, applied the concept of complementarity to interpret the validity of the quantum-mechanical laws. 
+The
+uncertainty relations alone afford an instance of how in quantum mechanics
+the exact knowledge of one variable can exclude the exact knowledge of
+another. This complementary relationship between different aspects of one
+and the same physical process is indeed characteristic for the whole structure
+of quantum mechanics. I had just mentioned that, for example, the determination of energetic relations 
+excludes the detailed description of spacetime processes. Similarly, the study of the chemical 
+properties of a molecule
+is complementary to the study of the motions of the individual electrons
+in the molecule, or the observation of interference phenomena complementary to the observation of 
+individual light quanta. Finally, the areas of validity of classical and quantum mechanics can be 
+marked off one from the other
+as follows: Classical physics represents that striving to learn about Nature
+in which essentially we seek to draw conclusions about objective processes
+from observations and so ignore the consideration of the influences which
+every observation has on the object to be observed; classicalphysics, therefore,
+has its limits at the point from which the influence of the observation on the
+event can no longer be ignored. Conversely, quantum mechanics makes possible the treatment of atomic 
+processes by partially foregoing their spacetime description and objectification.
+So as not to dwell on assertions in excessively abstract terms about the
+interpretation of quantum mechanics, I would like briefly to explain with
+300 1932 W.HEISENBERG
+a well-known example how far it is possible through the atomic theory to
+achieve an understanding of the visual processes with which we are concerned in daily life. 
+The interest of research workers has frequently been
+focused on the phenomenon of regularly shaped crystals suddenly forming
+from a liquid, e.g.a supersaturated salt solution. According to the atomic
+theory the forming force in this process is to a certain extent the symmetry
+characteristic of the solution to Schrödinger's wave equation, and to that
+extent crystallization is explained by the atomic theory. Nevertheless this
+process retains a statistical and - one might almost say - historical element
+which cannot be further reduced: even when the state of the liquid is completely known before 
+crystallization, the shape of the crystal is not determined by the laws of quantum mechanics. 
+The formation of regular shapes
+is just far more probable than that of a shapeless lump. But the ultimate shape
+owes its genesis partly to an element of chance which in principle cannot
+be analysed further.
+Before closing this report on quantum mechanics, I may perhaps be allowed to discuss very briefly 
+the hopes that may be attached to the further
+development of this branch of research. It would be superfuous to mention
+that the development must be continued, based equally on the studies of
+de Broglie, Schrödinger, Born, Jordan, and Dirac. Here the attention of the
+research workers is primarily directed to the problem of reconciling the
+claims of the special relativity theory with those of the quantum theory. The
+extraordinary advances made in this field by Dirac about which Mr. Dirac
+will speak here, meanwhile leave open the question whether it will be possible to satisfy 
+the claims of the two theories without at the same time determining the Sommerfeld fine-structure constant. 
+The attempts made hitherto
+to achieve a relativistic formulation of the quantum theory are all based on
+visual concepts so close to those of classical physics that it seems impossible
+to determine the fine-structure constant within this system of concepts. The
+expansion of the conceptual system under discussion here should, furthermore, be closely associated 
+with the further development of the quantum
+theory of wave fields, and it appears to me as if this formalism, notwithstanding its thorough study 
+by a number of workers (Dirac, Pauli, Jordan,
+Klein, Wigner, Fermi) has still not been completely exhausted. Important
+pointers for the further development of quantum mechanics also emerge
+from the experiments involving the structure of the atomic nuclei. From
+their analysis by means of the Gamow theory, it would appear that between
+the elementary particles of the atomic nucleus forces are at work which dif-
+fer somewhat in type from the forces determining the structure of the atomic
+shell; Stern's experiments seem, furthermore, to indicate that the behaviour
+of the heavy elementary particles cannot be represented by the formalism
+of Dirac's theory of the electron. Future research will thus have to be prepared for surprises which 
+may otherwise come both from the field of experience of nuclear physics as well as from that of 
+cosmic radiation. But however the development proceeds in detail, the path so far traced by the quantum theory 
+indicates that an understanding of those still unclarified features
+of atomic physics can only be acquired by foregoing visualization and objectification to an extent greater 
+than that customary hitherto. We have
+probably no reason to regret this, because the thought of the great epistemological difficulties with 
+which the visual atom concept of earlier physics
+had to contend gives us the hope that the abstracter atomic physics developing
+at present will one day fit more harmoniously into the great edifice of Science.
